@@ -19,6 +19,7 @@ def this_wednesday(now):
     return d - dt.timedelta(days=(d.weekday() - 2) % 7)
 
 def main():
+    os.makedirs("data", exist_ok=True)
     now = dt.datetime.now(SYD)
     wed = this_wednesday(now)
     week = {"from": wed.isoformat(), "to": (wed + dt.timedelta(days=6)).isoformat()}
@@ -93,5 +94,6 @@ if __name__ == "__main__":
         raise
     except Exception as e:
         import traceback
+        os.makedirs("data", exist_ok=True)
         open("data/fetch-log.txt", "a").write(traceback.format_exc())
         raise
