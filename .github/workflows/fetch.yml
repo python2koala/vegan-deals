@@ -11,7 +11,7 @@ on:
         description: 'Fetch again even if this week is already done (1 = yes)'
         default: '0'
   push:
-    paths: ['scripts/fetch.py', '.github/workflows/fetch.yml']
+    paths: ['scripts/fetch.py']
 permissions:
   contents: write
 concurrency: { group: fetch, cancel-in-progress: false }
@@ -27,12 +27,15 @@ jobs:
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           FORCE: ${{ github.event.inputs.force || (github.event_name == 'push' && '1') || '0' }}
+      - name: Build page data
+        if: success()
+        run: python scripts/build.py
       - name: Save candidates
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ docs/
           git commit -m "Weekly candidates from Woolworths" || echo "nothing new"
           git pull -q --rebase -X ours || true
           git push
