@@ -31,16 +31,31 @@ def main():
     if now.weekday() == 2 and now.hour < 7:
         print("Too early on Wednesday (Sydney); new specials may not be live yet."); return
 
-    r = requests.post(f"https://api.apify.com/v2/acts/{ACTOR}/run-sync-get-dataset-items",
-                      params={"token": os.environ["APIFY_TOKEN"], "timeout": 290},
-                      json={"mode": "urls", "urls": SOURCES, "maxItems": 1000,
-                            "includeRaw": True, "maxAgeHours": 0}, timeout=330)
-    if r.status_code >= 300:
-        open("data/fetch-log.txt", "w").write(f"HTTP {r.status_code}\n{r.text[:3000]}\n")
-        sys.exit(f"Apify HTTP {r.status_code}: {r.text[:300]}")
-    items = r.json()
-    if not isinstance(items, list) or not items:
-        sys.exit(f"Apify returned no items: {str(items)[:300]}")
+    def apify(urls):
+        r = requests.post(f"https://api.apify.com/v2/acts/{ACTOR}/run-sync-get-dataset-items",
+                          params={"token": os.environ["APIFY_TOKEN"], "timeout": 290},
+                          json={"mode": "urls", "urls": urls, "maxItems": 1500,
+                                "includeRaw": True, "maxAgeHours": 0}, timeout=330)
+        if r.status_code >= 300:
+            open("data/fetch-log.txt", "w").write(f"HTTP {r.status_code}\n{r.text[:3000]}\n")
+            sys.exit(f"Apify HTTP {r.status_code}: {r.text[:300]}")
+        got = r.json()
+        if not isinstance(got, list):
+            sys.exit(f"Apify returned: {str(got)[:300]}")
+        return got
+
+    def vegan_tag(it):
+        aa = (it.get("raw") or {}).get("AdditionalAttributes") or {}
+        return "vegan" in (aa.get("lifestyleanddietarystatement") or "").lower()
+
+    # Link A is the half-price page filtered to Woolworths' Lifestyle "Vegan" tag: apply that filter here.
+    half = [it for it in apify([SOURCES[0]]) if vegan_tag(it)]
+    # Links B and C are Woolworths' own "Vegan" / "Plant Based" searches limited to specials.
+    search = [it for it in apify(SOURCES[1:]) if it.get("isOnSpecial") or (it.get("raw") or {}).get("IsOnSpecial")]
+    items = half + search
+    if not items:
+        sys.exit("Apify returned no items")
+    counts = {"halfPriceVeganTag": len(half), "searches": len(search)}
 
     seen, rows, skipped = set(), [], {"no_price": 0, "under_40": 0, "out_of_stock": 0, "marketplace": 0}
     for it in items:
@@ -82,7 +97,7 @@ def main():
             "images": raw.get("DetailsImagePaths") or it.get("images") or [],
         })
     rows.sort(key=lambda x: -x["now"])
-    out = {"week": week, "fetched": now.isoformat(timespec="minutes"), "itemsFromApify": len(items),
+    out = {"week": week, "fetched": now.isoformat(timespec="minutes"), "itemsFromApify": len(items), "bySource": counts,
            "skipped": skipped, "minDiscount": MIN_DISCOUNT, "sources": SOURCES, "rows": rows}
     json.dump(out, open(path, "w"), indent=1, ensure_ascii=False)
     print(f"{len(items)} items from Apify, {len(rows)} candidates at {MIN_DISCOUNT}%+ off; skipped {skipped}")
