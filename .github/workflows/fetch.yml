@@ -1,0 +1,37 @@
+name: Weekly Woolworths fetch
+# Wednesday ~8:30am Sydney (21:30 UTC Tue in AEDT / 22:30 in AEST), with retries Wed evening and Thu.
+on:
+  schedule:
+    - cron: '30 21 * * 2'
+    - cron: '30 7 * * 3'
+    - cron: '30 21 * * 3'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Fetch again even if this week is already done (1 = yes)'
+        default: '0'
+  push:
+    paths: ['scripts/fetch.py', '.github/workflows/fetch.yml']
+permissions:
+  contents: write
+concurrency: { group: fetch, cancel-in-progress: false }
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests tzdata
+      - run: python scripts/fetch.py
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          FORCE: ${{ github.event.inputs.force || (github.event_name == 'push' && '1') || '0' }}
+      - name: Save candidates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull -q --rebase
+          git add data/candidates.json
+          git commit -m "Weekly candidates from Woolworths" || echo "nothing new"
+          git push
