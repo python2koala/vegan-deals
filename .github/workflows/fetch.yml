@@ -28,10 +28,11 @@ jobs:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           FORCE: ${{ github.event.inputs.force || (github.event_name == 'push' && '1') || '0' }}
       - name: Save candidates
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git pull -q --rebase
-          git add data/candidates.json
+          git add data/candidates.json data/fetch-log.txt 2>/dev/null || git add data/
           git commit -m "Weekly candidates from Woolworths" || echo "nothing new"
           git push

@@ -34,7 +34,9 @@ def main():
                       params={"token": os.environ["APIFY_TOKEN"], "timeout": 290},
                       json={"mode": "urls", "urls": SOURCES, "maxItems": 1000,
                             "includeRaw": True, "maxAgeHours": 0}, timeout=330)
-    r.raise_for_status()
+    if r.status_code >= 300:
+        open("data/fetch-log.txt", "w").write(f"HTTP {r.status_code}\n{r.text[:3000]}\n")
+        sys.exit(f"Apify HTTP {r.status_code}: {r.text[:300]}")
     items = r.json()
     if not isinstance(items, list) or not items:
         sys.exit(f"Apify returned no items: {str(items)[:300]}")
@@ -85,4 +87,11 @@ def main():
     print(f"{len(items)} items from Apify, {len(rows)} candidates at {MIN_DISCOUNT}%+ off; skipped {skipped}")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except Exception as e:
+        import traceback
+        open("data/fetch-log.txt", "a").write(traceback.format_exc())
+        raise
