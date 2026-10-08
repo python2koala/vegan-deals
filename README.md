@@ -2,7 +2,8 @@
 
 Weekly Woolworths half-price and special-price **vegan** deals for happyvegan.au.
 
-Live page: https://python2koala.github.io/vegan-deals/ (embedded in Google Sites with Insert > Embed > By URL).
+Google Sites: paste `docs/embed-paste-once.html` once (Insert > Embed > Embed code). It loads `docs/deals.json` live from this repository, so it updates by itself.
+Optional GitHub Pages address (if Pages is switched on): https://python2koala.github.io/vegan-deals/
 
 ## How it updates (no computer needed)
 1. **Wednesday morning (Sydney)**: `fetch.yml` asks Apify for the three Woolworths lists and keeps deals 40%+ off (`data/candidates.json`). Retries Wednesday evening and Thursday.
