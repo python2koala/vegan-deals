@@ -10,6 +10,10 @@ If Woolworths NZ blocks this server, falls back to Apify (APIFY_TOKEN) when an N
 """
 import datetime as dt, json, os, re, sys, time, zoneinfo
 import requests
+try:
+    from curl_cffi import requests as creq  # browser-like TLS, needed to get past Woolworths NZ's bot screen
+except ImportError:
+    creq = None
 
 SOURCE = "https://www.woolworths.co.nz/specials-offers?page=1&dietary=isVegan&staticFilters=SPECIALS&sortBy=PRICE_HIGH_LOW"
 BASE = "https://www.woolworths.co.nz"
@@ -31,11 +35,41 @@ def log(msg):
     print(msg)
 
 
+def apify_proxy():
+    """Apify Proxy (residential, New Zealand) using the Apify token already stored in GitHub secrets."""
+    tok = os.environ.get("APIFY_TOKEN")
+    if not tok:
+        return None
+    r = requests.get("https://api.apify.com/v2/users/me", params={"token": tok}, timeout=30)
+    pw = ((r.json().get("data") or {}).get("proxy") or {}).get("password") if r.ok else None
+    if not pw:
+        log(f"could not read Apify proxy password (HTTP {r.status_code})")
+        return None
+    url = f"http://groups-RESIDENTIAL,country-NZ:{pw}@proxy.apify.com:8000"
+    return {"http": url, "https": url}
+
+
 def session():
-    s = requests.Session()
-    s.headers.update({"User-Agent": UA, "Accept-Language": "en-NZ,en;q=0.9"})
-    r = s.get(BASE + "/", timeout=30)
-    log(f"home page HTTP {r.status_code}")
+    proxies = apify_proxy()
+    if creq:
+        s = creq.Session(impersonate="chrome")
+    else:
+        s = requests.Session()
+        s.headers.update({"User-Agent": UA})
+    s.headers.update({"Accept-Language": "en-NZ,en;q=0.9"})
+    if proxies:
+        s.proxies = proxies
+    log(f"route: {'Apify residential NZ proxy' if proxies else 'direct'}; client: {'curl_cffi chrome' if creq else 'requests'}")
+    for i in range(3):
+        try:
+            r = s.get(BASE + "/", timeout=45)
+            log(f"home page HTTP {r.status_code}")
+            break
+        except Exception as e:
+            log(f"home page error (try {i + 1}): {e}")
+            time.sleep(5)
+    else:
+        sys.exit("Could not reach woolworths.co.nz")
     s.headers.update({"x-requested-with": "OnlineShopping.WebApp", "accept": "application/json",
                       "referer": SOURCE})
     return s
@@ -43,7 +77,10 @@ def session():
 
 def get_json(s, path, params=None, tries=3):
     for i in range(tries):
-        r = s.get(BASE + path, params=params, timeout=40)
+        try:
+            r = s.get(BASE + path, params=params, timeout=45)
+        except Exception as e:
+            log(f"{path} error (try {i + 1}): {e}"); time.sleep(5 * (i + 1)); continue
         if r.status_code == 200:
             try:
                 return r.json()
