@@ -75,3 +75,11 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.woolworths.co.nz'
 2026-10-09T21:54+13:00 home page error (try 1): Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
 2026-10-09T21:54+13:00 home page error (try 2): Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
 2026-10-09T21:54+13:00 home page error (try 3): Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-10-09T21:56+13:00 Apify plan FREE; proxy groups ['BUYPROXIES94952', 'GOOGLE_SERP', 'RESIDENTIAL', 'UNBLOCKER']
+2026-10-09T21:56+13:00 route groups-RESIDENTIAL,country-NZ: error Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-10-09T21:56+13:00 route groups-RESIDENTIAL: error Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-10-09T21:56+13:00 route country-NZ: error Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-10-09T21:56+13:00 route auto: error Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-10-09T21:56+13:00 route direct: home page HTTP 200, 954947 bytes
+2026-10-09T21:56+13:00 route direct: API HTTP 200
+2026-10-09T21:57+13:00 767 vegan-tagged specials listed (site total 767)
