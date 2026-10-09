@@ -71,3 +71,7 @@ Traceback (most recent call last):
     raise ReadTimeout(e, request=request)
 requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.woolworths.co.nz', port=443): Read timed out. (read timeout=30)
 
+2026-10-09T21:54+13:00 route: Apify residential NZ proxy; client: curl_cffi chrome
+2026-10-09T21:54+13:00 home page error (try 1): Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-10-09T21:54+13:00 home page error (try 2): Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-10-09T21:54+13:00 home page error (try 3): Failed to perform, curl: (7) CONNECT tunnel failed, response 403. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
