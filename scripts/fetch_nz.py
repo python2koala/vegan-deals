@@ -35,44 +35,51 @@ def log(msg):
     print(msg)
 
 
-def apify_proxy():
-    """Apify Proxy (residential, New Zealand) using the Apify token already stored in GitHub secrets."""
+def apify_proxies():
+    """Apify Proxy routes to try, best first, using the Apify token already stored in GitHub secrets."""
     tok = os.environ.get("APIFY_TOKEN")
     if not tok:
-        return None
+        return []
     r = requests.get("https://api.apify.com/v2/users/me", params={"token": tok}, timeout=30)
-    pw = ((r.json().get("data") or {}).get("proxy") or {}).get("password") if r.ok else None
+    data = (r.json().get("data") or {}) if r.ok else {}
+    px = data.get("proxy") or {}
+    pw = px.get("password")
+    groups = [g.get("name") for g in px.get("groups") or []]
+    plan = (data.get("plan") or {}).get("id")
+    log(f"Apify plan {plan}; proxy groups {groups}")
     if not pw:
-        log(f"could not read Apify proxy password (HTTP {r.status_code})")
-        return None
-    url = f"http://groups-RESIDENTIAL,country-NZ:{pw}@proxy.apify.com:8000"
-    return {"http": url, "https": url}
+        return []
+    out = []
+    for user in ("groups-RESIDENTIAL,country-NZ", "groups-RESIDENTIAL", "country-NZ", "auto"):
+        u = f"http://{user}:{pw}@proxy.apify.com:8000"
+        out.append((user, {"http": u, "https": u}))
+    return out
 
 
 def session():
-    proxies = apify_proxy()
-    if creq:
-        s = creq.Session(impersonate="chrome")
-    else:
-        s = requests.Session()
-        s.headers.update({"User-Agent": UA})
-    s.headers.update({"Accept-Language": "en-NZ,en;q=0.9"})
-    if proxies:
-        s.proxies = proxies
-    log(f"route: {'Apify residential NZ proxy' if proxies else 'direct'}; client: {'curl_cffi chrome' if creq else 'requests'}")
-    for i in range(3):
+    routes = apify_proxies() + [("direct", None)]
+    for name, proxies in routes:
+        if creq:
+            s = creq.Session(impersonate="chrome")
+        else:
+            s = requests.Session()
+            s.headers.update({"User-Agent": UA})
+        s.headers.update({"Accept-Language": "en-NZ,en;q=0.9"})
+        if proxies:
+            s.proxies = proxies
         try:
-            r = s.get(BASE + "/", timeout=45)
-            log(f"home page HTTP {r.status_code}")
-            break
+            r = s.get(BASE + "/", timeout=40)
+            log(f"route {name}: home page HTTP {r.status_code}, {len(r.content)} bytes")
+            if r.status_code == 200:
+                s.headers.update({"x-requested-with": "OnlineShopping.WebApp", "accept": "application/json",
+                                  "referer": SOURCE})
+                probe = s.get(BASE + "/api/v1/products", params={"target": "specials", "size": 1, "page": 1}, timeout=40)
+                log(f"route {name}: API HTTP {probe.status_code}")
+                if probe.status_code == 200 and "products" in probe.text[:2000]:
+                    return s
         except Exception as e:
-            log(f"home page error (try {i + 1}): {e}")
-            time.sleep(5)
-    else:
-        sys.exit("Could not reach woolworths.co.nz")
-    s.headers.update({"x-requested-with": "OnlineShopping.WebApp", "accept": "application/json",
-                      "referer": SOURCE})
-    return s
+            log(f"route {name}: error {str(e)[:160]}")
+    sys.exit("Could not reach woolworths.co.nz by any route")
 
 
 def get_json(s, path, params=None, tries=3):
