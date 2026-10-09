@@ -1,0 +1,42 @@
+name: Weekly Woolworths NZ fetch
+# NZ specials run Monday to Sunday. Runs Monday ~7:30am NZDT / 6:30am NZST (18:30 UTC Sunday),
+# with retries Monday afternoon and Tuesday morning.
+on:
+  schedule:
+    - cron: '30 18 * * 0'
+    - cron: '30 2 * * 1'
+    - cron: '30 18 * * 1'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Fetch again even if this week is already done (1 = yes)'
+        default: '0'
+  push:
+    paths: ['scripts/fetch_nz.py', '.github/workflows/fetch-nz.yml']
+permissions:
+  contents: write
+concurrency: { group: fetch-nz, cancel-in-progress: false }
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests tzdata
+      - run: python scripts/fetch_nz.py
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          FORCE: ${{ github.event.inputs.force || (github.event_name == 'push' && '1') || '0' }}
+      - name: Build NZ page data
+        if: success()
+        run: python scripts/build_nz.py
+      - name: Save candidates
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/nz/ docs/nz/ || true
+          git commit -m "Weekly NZ candidates from Woolworths NZ" || echo "nothing new"
+          git pull -q --rebase -X ours || true
+          git push
