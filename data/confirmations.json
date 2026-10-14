@@ -12,6 +12,50 @@
    "status": "verified",
    "url": ""
   },
+  "108124": {
+   "brand": "Whole Earth",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Whole Earth Monk Fruit Sweetener Sticks 40 pack",
+   "note": "Whole Earth Australia's Monk Fruit Sticks page lists \"Vegan\" (organic erythritol 99%, monk fruit extract 1%).",
+   "src": "Whole Earth (manufacturer)",
+   "status": "verified",
+   "url": "https://www.wholeearthsweetener.com.au/products/whole-earth-monk-fruit-sticks"
+  },
+  "114581": {
+   "brand": "Goodness Me",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Goodness Me Really Fruity Sticks Strawberry & Blueberry 8 pack",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "115176": {
+   "brand": "Goodness Me",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Goodness Me Really Fruity Nuggets & Sticks Mix 8 pack",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "116370": {
+   "brand": "Goodness Me",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Goodness Me Really Fruity Nuggets Raspberry & Blueberry 8 pack",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "117371": {
    "brand": "Greenback",
    "cat": "s",
@@ -56,6 +100,17 @@
    "status": "verified",
    "url": ""
   },
+  "135507": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Satay Recipe Base 30g",
+   "note": "Mingle's Satay Recipe Base page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/satay-stir-fry"
+  },
   "136022": {
    "brand": "Farmers Harvest",
    "cat": "",
@@ -63,6 +118,17 @@
    "mayContain": "",
    "name": "Farmers Harvest Canola Oil",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "137848": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Coca-Cola Caffeine Free Zero Sugar Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -78,6 +144,39 @@
    "status": "no",
    "url": ""
   },
+  "169031": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Use Me On Everything All Natural Seasoning 50g",
+   "note": "Mingle's Use Me On Everything Seasoning page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/sammy-all-purpose"
+  },
+  "169836": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Backyard BBQ Seasoning 50g",
+   "note": "Mingle's Barbecue Seasoning page (same ingredients) lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/bbq-seasoning"
+  },
+  "170002": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Garlic & Herb All Natural Seasoning 50g",
+   "note": "Mingle's Garlic & Herb Seasoning page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/siena-garlic-herb"
+  },
   "178289": {
    "brand": "Musashi",
    "cat": "",
@@ -85,6 +184,17 @@
    "mayContain": "",
    "name": "Musashi Energy Drink Purple Grape",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "180941": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Coca-Cola Vanilla Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -98,6 +208,28 @@
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
    "src": "",
    "status": "no",
+   "url": ""
+  },
+  "191772": {
+   "brand": "Peters",
+   "cat": "b",
+   "checked": "2026-10-14",
+   "mayContain": "milk",
+   "name": "Peters Drumstick Plant Based Classic Vanilla Cones 4 pack",
+   "note": "Product listing carries the Vegan pack claim and says \"PLANT BASED, VEGAN, AUSSIE MADE\".",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "198332": {
+   "brand": "Impossible",
+   "cat": "b",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Impossible Plant Based Beef Mince 340g",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
    "url": ""
   },
   "198657": {
@@ -129,6 +261,50 @@
    "mayContain": "",
    "name": "Genki Forest Sparkling Water Grape Delight",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "200133": {
+   "brand": "Kellogg's",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Kellogg's Just Right Apricot & Sultana Breakfast Cereal 740g",
+   "note": "Kellogg's Australia's Just Right Original (apricot & sultana, identical ingredients) page says \"Suitable for vegans.\"",
+   "src": "Kellogg's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.kelloggs.com.au/en_AU/products/just-right-original.html"
+  },
+  "202140": {
+   "brand": "Kellogg's",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Kellogg's Nutri-Grain Protein Breakfast Cereal 470g",
+   "note": "Kellogg's Australia Nutri-Grain product page says \"Suitable for vegans.\"",
+   "src": "Kellogg's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.kelloggs.com.au/en_AU/products/nutri-grain-product.html"
+  },
+  "217099": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Smokey Taco Mild Chipotle Recipe Base 30g",
+   "note": "Mingle's Chipotle Tacos Recipe Base page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/mild-chipotle-taco"
+  },
+  "221678": {
+   "brand": "Fanta",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Fanta Raspberry Zero Sugar Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -166,6 +342,17 @@
    "status": "no",
    "url": ""
   },
+  "229246": {
+   "brand": "Oreo",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Oreo Mini Cookies Original Share Pack 157g",
+   "note": "Oreo Australia FAQ lists \"OREO Mini Original Vanilla Crème\" among the varieties that are vegan friendly.",
+   "src": "Mondelez (manufacturer)",
+   "status": "verified",
+   "url": "https://www.oreo.com.au/faqs"
+  },
   "229702": {
    "brand": "Musashi",
    "cat": "p",
@@ -187,6 +374,39 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "233892": {
+   "brand": "Sour Patch Kids",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Sour Patch Kids Watermelon Lollies 190g",
+   "note": "PETA Australia lists only original Sour Patch Kids as vegan, not this variety; no manufacturer or pack confirmation found.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "234585": {
+   "brand": "Sour Patch Kids",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Sour Patch Kids Berry Lollies 190g",
+   "note": "PETA Australia lists only original Sour Patch Kids as vegan, not this variety; no manufacturer or pack confirmation found.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "234699": {
+   "brand": "Sour Patch Kids",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Sour Patch Kids Lollies 190g",
+   "note": "PETA Australia's Accidentally Vegan list includes \"Sour Patch Kids\" under Lollies and Chocolate.",
+   "src": "PETA Australia",
+   "status": "verified",
+   "url": "https://www.peta.org.au/living/accidentally-vegan/"
   },
   "239289": {
    "brand": "Musashi",
@@ -276,6 +496,50 @@
    "status": "no",
    "url": ""
   },
+  "255379": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Everything Bagel All-Natural Seasoning 50g",
+   "note": "Mingle's Everything Bagel Seasoning page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/mingle-whoops-we-forgot-the-bagel-spice-120g"
+  },
+  "257224": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Lady Grey Tea Bags 100 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "259501": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Mexican Fiesta Taco All-Natural Seasoning 50g",
+   "note": "Mingle's Mexican Fiesta Taco Seasoning page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/mexican-fiesta"
+  },
+  "263796": {
+   "brand": "Vege Chips",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Vege Chips Salt & Vinegar 100g",
+   "note": "Vege Chips' Sea Salt & Vinegar product page says \"Plant-Based and Vegan-Friendly\".",
+   "src": "Vege Chips (manufacturer)",
+   "status": "verified",
+   "url": "https://www.vegechips.com/snacks/vege-chips-sea-salt-vinegar/"
+  },
   "275269": {
    "brand": "Macro",
    "cat": "b",
@@ -320,6 +584,50 @@
    "status": "verified",
    "url": ""
   },
+  "280417": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Sri Lankan Coconut Turmeric Curry Recipe Base 30g",
+   "note": "Mingle's Sri Lankan Recipe Base page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/sri-lankan-curry"
+  },
+  "280439": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Chilli Con Carne Recipe Base 35g",
+   "note": "Mingle's Chilli Con Carne Recipe Base page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/chilli-con-carne"
+  },
+  "307864": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings English Breakfast Decaffeinated Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "309497": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings French Earl Grey Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "31560": {
    "brand": "Golden",
    "cat": "",
@@ -329,6 +637,28 @@
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
    "src": "",
    "status": "no",
+   "url": ""
+  },
+  "318680": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Pure Green Tea Bags 100 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "319943": {
+   "brand": "French Fries",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "milk",
+   "name": "French Fries Original Potato Chips 175g",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
    "url": ""
   },
   "324231": {
@@ -360,6 +690,17 @@
    "mayContain": "",
    "name": "Uncle Tobys Roll Ups Rainbow Berry",
    "note": "Uncle Tobys' own product page shows its 'Vegan friendly' label switched off, which conflicts with the Woolworths claim; excluded by the owner's rule.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "32731": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Coca-Cola Classic Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -474,6 +815,17 @@
    "status": "no",
    "url": ""
   },
+  "4021": {
+   "brand": "Real Foods",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Real Foods Corn Thins Multigrain 150g",
+   "note": "Corn Thins FAQ says regular (unflavoured) varieties contain no animal derivatives, \"so are suitable for vegetarians and vegans\".",
+   "src": "Real Foods (manufacturer)",
+   "status": "verified",
+   "url": "https://www.cornthins.com/frequently-asked-questions/"
+  },
   "442185": {
    "brand": "Schweppes",
    "cat": "",
@@ -518,6 +870,39 @@
    "status": "no",
    "url": ""
   },
+  "479501": {
+   "brand": "Pringles",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Pringles Original Salted Potato Chips 134g",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "479503": {
+   "brand": "Pringles",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Pringles Salt & Vinegar Potato Chips 134g",
+   "note": "Product listing says \"Suitable for vegetarians and vegans\".",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "479504": {
+   "brand": "Pringles",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Pringles BBQ Stacked Potato Chips 134g",
+   "note": "Product listing says \"Suitable for vegetarians and vegans\".",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "479847": {
    "brand": "Pringles",
    "cat": "s",
@@ -550,6 +935,17 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "488287": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Greek Garlic Seasoning 45g",
+   "note": "Mingle's Greek Garlic Seasoning page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/greek-garlic-lovers-seasoning"
   },
   "49622": {
    "brand": "Golden",
@@ -594,6 +990,17 @@
    "src": "Pepsi MAX Australia (manufacturer)",
    "status": "verified",
    "url": "https://www.pepsimax.com.au/faq"
+  },
+  "586813": {
+   "brand": "Smith's",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Smith's Crinkle Cut Potato Chips Original 60g",
+   "note": "Smith's FAQ lists Classic Crinkle Cut Original among its products that are suitable for vegans.",
+   "src": "Smith's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.smiths.com.au/faqs"
   },
   "6001379": {
    "brand": "Oreo",
@@ -671,6 +1078,28 @@
    "src": "Mingle (manufacturer)",
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/sachet-3-pack-peri-peri-rub"
+  },
+  "6012042": {
+   "brand": "Nuttelex",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Nuttelex Beef Style Stock 1L",
+   "note": "Nuttelex's Beef Style Stock page says \"Certified vegan, made with compassion and care.\"",
+   "src": "Nuttelex (manufacturer)",
+   "status": "verified",
+   "url": "https://nuttelex.com.au/product/beef-style-stock/"
+  },
+  "6015087": {
+   "brand": "Nuttelex",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Nuttelex Vegetable Stock 1L",
+   "note": "Nuttelex's Veggie Stock page says \"Certified vegan, made with compassion and care.\"",
+   "src": "Nuttelex (manufacturer)",
+   "status": "verified",
+   "url": "https://nuttelex.com.au/product/veggie-stock/"
   },
   "6023531": {
    "brand": "Rafferty's Garden",
@@ -804,6 +1233,39 @@
    "status": "verified",
    "url": "https://www.oreo.com.au/faqs"
   },
+  "6036333": {
+   "brand": "Arnott's",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "milk,egg",
+   "name": "Arnott's Jatz Mini Crackers Sea Salt 170g",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6045958": {
+   "brand": "Magnum",
+   "cat": "b",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Magnum Plant Based Classic Sticks 3 pack",
+   "note": "Magnum ANZ says its dairy-free classic and almond ice confections \"are both vegan-friendly\".",
+   "src": "Magnum (manufacturer)",
+   "status": "verified",
+   "url": "https://www.magnumicecream.com/anz/products/vegan.html"
+  },
+  "6046192": {
+   "brand": "Magnum",
+   "cat": "b",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Magnum Plant Based Almond Sticks 3 pack",
+   "note": "Magnum ANZ says its dairy-free classic and almond ice confections \"are both vegan-friendly\".",
+   "src": "Magnum (manufacturer)",
+   "status": "verified",
+   "url": "https://www.magnumicecream.com/anz/products/vegan.html"
+  },
   "6048293": {
    "brand": "Springhill Farm",
    "cat": "s",
@@ -815,6 +1277,17 @@
    "status": "verified",
    "url": ""
   },
+  "6049732": {
+   "brand": "Fanta",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Fanta Orange Zero Sugar Soft Drink 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6054255": {
    "brand": "Cobs",
    "cat": "",
@@ -822,6 +1295,17 @@
    "mayContain": "",
    "name": "Cobs Crunchy Popcorn Bars Sweet Salty Almond & Peanut",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6054640": {
+   "brand": "Goodness Me",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Goodness Me Really Fruity Sticks Grape 8 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -836,6 +1320,28 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "6055341": {
+   "brand": "Kellogg's",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Kellogg's Frosties Breakfast Cereal 545g",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6055362": {
+   "brand": "Kellogg's",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Kellogg's Coco Pops Chocolatey Breakfast Cereal 535g",
+   "note": "Kellogg's Australia Coco Pops product page says \"Suitable for vegans.\"",
+   "src": "Kellogg's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.kelloggs.com.au/en_AU/products/coco-pops-product.html"
   },
   "6055424": {
    "brand": "Weet-Bix",
@@ -991,6 +1497,39 @@
    "status": "no",
    "url": ""
   },
+  "6065996": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Decaf Green Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6066267": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Matcha Green Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6066370": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Metabolism+ Flavoured Infusion 8 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6071197": {
    "brand": "Mingle",
    "cat": "p",
@@ -1013,6 +1552,28 @@
    "status": "verified",
    "url": "https://www.mingleseasoning.com/collections/rubs/products/greek-style-bbq-rub-3-pack"
   },
+  "6071202": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Lemon Pepper Seasoning 35g",
+   "note": "Mingle's Lemon Pepper Seasoning page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/collections/seasonings/products/citrus-pepper-seasoning-large-bottle"
+  },
+  "6071569": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Italian Herbs Seasoning 35g",
+   "note": "Mingle's Italiano Mix Seasoning page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/new-mambo-italiano-mix-seasoning-large-bottle"
+  },
   "6081096": {
    "brand": "Ho Mai",
    "cat": "",
@@ -1022,6 +1583,28 @@
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
    "src": "",
    "status": "no",
+   "url": ""
+  },
+  "6081872": {
+   "brand": "Fanta",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Fanta Fantasies Hibiscus & Berries Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6084474": {
+   "brand": "Pringles",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Pringles Original Lightly Salted Potato Chips 134g",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
    "url": ""
   },
   "6085000": {
@@ -1068,6 +1651,39 @@
    "status": "verified",
    "url": "https://wearegreenback.com/products/killer-coffee-protein-bar"
   },
+  "62170": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Sprite Zero Sugar Lemonade Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "623034": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Coca-Cola Zero Sugar Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "62842": {
+   "brand": "Vege Chips",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Vege Chips Natural 100g",
+   "note": "Vege Chips' Natural product page says \"Plant-Based and Vegan-Friendly\".",
+   "src": "Vege Chips (manufacturer)",
+   "status": "verified",
+   "url": "https://vegechips.com/vegechips-natural"
+  },
   "663195": {
    "brand": "Monini",
    "cat": "",
@@ -1101,6 +1717,50 @@
    "status": "no",
    "url": ""
   },
+  "68721": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Taco Mexican Fiesta Recipe Base 30g",
+   "note": "Mingle's taco recipe base page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/taco-mexican-fiesta"
+  },
+  "701726": {
+   "brand": "Kellogg's",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Kellogg's Coco Pops Chex Breakfast Cereal 500g",
+   "note": "Product listing says \"Suitable for vegans and vegetarians\".",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "71422": {
+   "brand": "Real Foods",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Real Foods Corn Thins Original 150g",
+   "note": "Corn Thins Australian product page lists Original as \"gluten-free and vegan\".",
+   "src": "Real Foods (manufacturer)",
+   "status": "verified",
+   "url": "https://www.cornthins.com/en-au/cornthins-original/"
+  },
+  "714457": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Australian Afternoon Tea Bags 100 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "71713": {
    "brand": "Nature's Way",
    "cat": "",
@@ -1108,6 +1768,50 @@
    "mayContain": "",
    "name": "Nature's Way Protein Plus Collagen",
    "note": "Contains collagen, which is animal-derived.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "72617": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Earl Grey Tea Bags 100 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "72618": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings English Breakfast Tea Bags 100 pack",
+   "note": "Twinings Australia's English Breakfast product page shows a \"Vegan\" badge next to Sugar Free and All Natural Ingredients.",
+   "src": "Twinings (manufacturer)",
+   "status": "verified",
+   "url": "https://twinings.com.au/products/english-breakfast"
+  },
+  "728313": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Assam Bold Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "75816": {
+   "brand": "SunRice",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "SunRice Australian Calrose Medium Grain Rice 10kg",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -1145,6 +1849,149 @@
    "status": "verified",
    "url": "https://rawc.com.au/faqs/"
   },
+  "793382": {
+   "brand": "Vege Chips",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Vege Chips Chicken Style 100g",
+   "note": "Vege Chips' Chicken Style product page says \"Plant-Based and Vegan-Friendly\".",
+   "src": "Vege Chips (manufacturer)",
+   "status": "verified",
+   "url": "https://www.vegechips.com/snacks/vege-chips-chicken-style/"
+  },
+  "803078": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Coca-Cola Vanilla Zero Sugar Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "829281": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings English Breakfast Extra Strong Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "84608": {
+   "brand": "Peckish",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Peckish Fancies Caramelised Onion & Balsamic Vinegar Rice Crackers 90g",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "8647": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Irish Breakfast Tea Bags 100 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "888464": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Pure Camomile Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "888487": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Pure Peppermint Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "892509": {
+   "brand": "Powerade",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Powerade Isotonic Mountain Blast Sports Drink 1L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "892529": {
+   "brand": "Powerade",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Powerade Isotonic Berry Ice Sports Drink 1L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "906439": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Mexican Fajita Seasoning 35g",
+   "note": "Mingle's Fajita Recipe Base page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/fajita"
+  },
+  "906458": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Creamy Buffalo Chicken Bake Recipe Base 35g",
+   "note": "Mingle's Buffalo Chicken Bake Recipe Base page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/collections/mingle-sachets-1/products/buffalo-chicken-bake-3-pack"
+  },
+  "907865": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Mingle Sweet & Savoury Chow Mein Recipe Base 40g",
+   "note": "Mingle's Chow Mein Recipe Base page lists it as \"Vegan Friendly\".",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/chow-mein-3-pack"
+  },
+  "910382": {
+   "brand": "Kellogg's",
+   "cat": "p",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Kellogg's Nutri-Grain High Protein Crunch Choc Malt Cereal 500g",
+   "note": "Kellogg's Australia product page lists \"Vegan friendly\".",
+   "src": "Kellogg's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.kelloggs.com.au/en_AU/products/nutri-grain-high-protein-crunch.html"
+  },
   "919474": {
    "brand": "Hellmann's",
    "cat": "p",
@@ -1155,6 +2002,61 @@
    "src": "Unilever (manufacturer)",
    "status": "verified",
    "url": "https://www.unileverfoodsolutions.com.au/product/hellmann-s-plant-based-mayo-2-4kg-1-EN-880894.html"
+  },
+  "931160": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Lemon & Ginger Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "94179": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Twinings Chai Vanilla Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "94493": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Coca-Cola Diet Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "95325": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Sprite Lemonade Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "96154": {
+   "brand": "Vege Chips",
+   "cat": "s",
+   "checked": "2026-10-14",
+   "mayContain": "",
+   "name": "Vege Chips Barbeque 100g",
+   "note": "Vege Chips' Barbeque product page says \"Plant-Based and Vegan-Friendly\".",
+   "src": "Vege Chips (manufacturer)",
+   "status": "verified",
+   "url": "http://www.vegechips.com/vegechips-barbeque"
   }
  }
 }
