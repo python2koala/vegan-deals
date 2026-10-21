@@ -1,6 +1,17 @@
 {
  "about": "Vegan decisions per Woolworths stockcode. status: verified (listed, neon green), caution (listed, Check first), no (not listed). 'no' decisions are re-checked after 56 days.",
  "rows": {
+  "102753": {
+   "brand": "Health Lab",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk, egg",
+   "name": "Health Lab Plant Protein Bar Choc Caramel Fudge Cake",
+   "note": "Health Lab FAQ: \"Yes, all of our products are vegan-friendly.\"",
+   "src": "Health Lab (manufacturer)",
+   "status": "verified",
+   "url": "https://healthlab.com.au/pages/faqs"
+  },
   "103305": {
    "brand": "Nature's Way",
    "cat": "p",
@@ -22,6 +33,17 @@
    "src": "Whole Earth (manufacturer)",
    "status": "verified",
    "url": "https://www.wholeearthsweetener.com.au/products/whole-earth-monk-fruit-sticks"
+  },
+  "113612": {
+   "brand": "Bhuja",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Bhuja Nut Mix",
+   "note": "Majans FAQ: \"Yes, Bhuja snacks are suitable for Vegans and Vegetarians.\"",
+   "src": "Majans (manufacturer)",
+   "status": "verified",
+   "url": "https://majans.com.au/faqs/"
   },
   "114581": {
    "brand": "Goodness Me",
@@ -133,6 +155,50 @@
    "status": "no",
    "url": ""
   },
+  "159796": {
+   "brand": "Kirks",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Kirks Lemonade Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "159797": {
+   "brand": "Kirks",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Kirks Lemon Squash Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "159798": {
+   "brand": "Kirks",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Kirks Pasito Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "159799": {
+   "brand": "Kirks",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Kirks Creaming Soda Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "160239": {
    "brand": "Cottee's",
    "cat": "",
@@ -176,6 +242,17 @@
    "src": "Mingle (manufacturer)",
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/siena-garlic-herb"
+  },
+  "174412": {
+   "brand": "V Energy",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "V Energy Zero Sugar Blue Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "178289": {
    "brand": "Musashi",
@@ -287,6 +364,17 @@
    "status": "verified",
    "url": "https://www.kelloggs.com.au/en_AU/products/nutri-grain-product.html"
   },
+  "202639": {
+   "brand": "Bhuja",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Bhuja Original Mix",
+   "note": "Majans FAQ: \"Yes, Bhuja snacks are suitable for Vegans and Vegetarians.\"",
+   "src": "Majans (manufacturer)",
+   "status": "verified",
+   "url": "https://majans.com.au/faqs/"
+  },
   "217099": {
    "brand": "Mingle",
    "cat": "p",
@@ -304,6 +392,17 @@
    "checked": "2026-10-14",
    "mayContain": "",
    "name": "Fanta Raspberry Zero Sugar Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "221822": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Sprite Zero Sugar Lemonade Soft Drink Mini Bottles",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -338,6 +437,17 @@
    "mayContain": "",
    "name": "Only Organic Strawberry & Apple Oat Bars With Wholegrains",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "227590": {
+   "brand": "V Energy",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "V Energy Refresh Pineapple & Watermelon Zero Sugar Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -529,6 +639,17 @@
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/mexican-fiesta"
   },
+  "260641": {
+   "brand": "Bhuja",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Bhuja Crunchy Seasoned Peas",
+   "note": "Majans FAQ: \"Yes, Bhuja snacks are suitable for Vegans and Vegetarians.\"",
+   "src": "Majans (manufacturer)",
+   "status": "verified",
+   "url": "https://majans.com.au/faqs/"
+  },
   "263796": {
    "brand": "Vege Chips",
    "cat": "s",
@@ -606,6 +727,17 @@
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/chilli-con-carne"
   },
+  "288163": {
+   "brand": "Bibigo",
+   "cat": "b",
+   "checked": "2026-10-21",
+   "mayContain": "milk, egg",
+   "name": "Bibigo Mandu Vegetable Dumplings",
+   "note": "Listing carries a Vegan pack claim, but CJ only says plant-based and flavour enhancers 627/631 have unstated origin.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "caution",
+   "url": ""
+  },
   "307864": {
    "brand": "Twinings",
    "cat": "d",
@@ -628,6 +760,17 @@
    "status": "no",
    "url": ""
   },
+  "313019": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Coca-Cola Classic Soft Drink Mini Bottles",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "31560": {
    "brand": "Golden",
    "cat": "",
@@ -635,6 +778,17 @@
    "mayContain": "",
    "name": "Golden Crumpets Round Wholemeal",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "317388": {
+   "brand": "Kirks",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Kirks Zero Sugar Lemon Squash Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -659,6 +813,17 @@
    "note": "Product listing carries the Vegan pack claim.",
    "src": "Woolworths listing (pack claim)",
    "status": "verified",
+   "url": ""
+  },
+  "322924": {
+   "brand": "Kirks",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Kirks Zero Sugar Lemonade Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
    "url": ""
   },
   "324231": {
@@ -705,6 +870,28 @@
    "status": "no",
    "url": ""
   },
+  "32747": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Drinks Orange Burst Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "32749": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Pine Orange Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "333258": {
    "brand": "Sunrice",
    "cat": "",
@@ -716,6 +903,28 @@
    "status": "no",
    "url": ""
   },
+  "33981": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Drinks Tropical Punch Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "34543": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Pine Mango Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "346040": {
    "brand": "Ritz",
    "cat": "",
@@ -723,6 +932,17 @@
    "mayContain": "",
    "name": "Ritz Mini Crackers Original Flavour",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "35498": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Sunshine Punch Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -811,6 +1031,61 @@
    "mayContain": "",
    "name": "Australian Organic Food Co. Pear Peach & Nectarine Fruit Puree Pouch",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "387015": {
+   "brand": "Uncle Tobys",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Uncle Tobys Plus Iron Breakfast Cereal",
+   "note": "Uncle Tobys' own product page shows its 'Vegan friendly' attribute switched off.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "387064": {
+   "brand": "Uncle Tobys",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Uncle Tobys Cheerios Original Cereal",
+   "note": "Uncle Tobys' product page shows its \"Vegan friendly\" attribute switched on.",
+   "src": "Uncle Tobys (manufacturer)",
+   "status": "verified",
+   "url": "https://www.uncletobys.com.au/products/cereals/uncle-tobys-cheerios/original"
+  },
+  "387324": {
+   "brand": "Uncle Tobys",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Uncle Tobys Cheerios Low Sugar Vanilla Cereal",
+   "note": "Uncle Tobys' own product page shows its 'Vegan friendly' attribute switched off.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "387492": {
+   "brand": "Uncle Tobys",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Uncle Tobys Plus Fibre Breakfast Cereal",
+   "note": "Uncle Tobys' product page shows its \"Vegan friendly\" attribute switched on.",
+   "src": "Uncle Tobys (manufacturer)",
+   "status": "verified",
+   "url": "https://www.uncletobys.com.au/products/cereals/uncle-tobys-plus/plus-fibre"
+  },
+  "399589": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Sprite Lemonade",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -969,6 +1244,17 @@
    "status": "no",
    "url": ""
   },
+  "534560": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Apple Splash Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "571426": {
    "brand": "Ruffie",
    "cat": "b",
@@ -1002,6 +1288,17 @@
    "status": "verified",
    "url": "https://www.smiths.com.au/faqs"
   },
+  "6000578": {
+   "brand": "Woolworths",
+   "cat": "b",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Woolworths Frozen Tex Mex Vegetable Mix",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6001379": {
    "brand": "Oreo",
    "cat": "",
@@ -1012,6 +1309,17 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "6003520": {
+   "brand": "Bhuja",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Bhuja Cracker Mix",
+   "note": "Majans FAQ: \"Yes, Bhuja snacks are suitable for Vegans and Vegetarians.\"",
+   "src": "Majans (manufacturer)",
+   "status": "verified",
+   "url": "https://majans.com.au/faqs/"
   },
   "6008259": {
    "brand": "Moro",
@@ -1079,6 +1387,17 @@
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/sachet-3-pack-peri-peri-rub"
   },
+  "6011885": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Coca-Cola Mini Zero Sugar Zero Caffeine Soft Drink Bottles",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6012042": {
    "brand": "Nuttelex",
    "cat": "p",
@@ -1100,6 +1419,50 @@
    "src": "Nuttelex (manufacturer)",
    "status": "verified",
    "url": "https://nuttelex.com.au/product/veggie-stock/"
+  },
+  "6017245": {
+   "brand": "Moccona",
+   "cat": "c",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Moccona Liquid Coffee Concentrate Sachets Espresso Medium Roast",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6017310": {
+   "brand": "Moccona",
+   "cat": "c",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Moccona Liquid Coffee Concentrate Sachets Espresso Dark Roast",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6018784": {
+   "brand": "Nesquik",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Nesquik Choco Crunchy Breakfast Cereal",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6021871": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Nescafe Espresso Concentrate Rich Caramel Liquid Coffee",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "6023531": {
    "brand": "Rafferty's Garden",
@@ -1265,6 +1628,39 @@
    "src": "Magnum (manufacturer)",
    "status": "verified",
    "url": "https://www.magnumicecream.com/anz/products/vegan.html"
+  },
+  "6047550": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Nescafe Espresso Concentrate Velvet Mocha Liquid Coffee",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6047630": {
+   "brand": "Health Lab",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk, egg",
+   "name": "Health Lab Protein Wafer Bar Salted Caramel",
+   "note": "Health Lab FAQ: \"Yes, all of our products are vegan-friendly.\"",
+   "src": "Health Lab (manufacturer)",
+   "status": "verified",
+   "url": "https://healthlab.com.au/pages/faqs"
+  },
+  "6048032": {
+   "brand": "Belladotti",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Belladotti Cous Cous Sun-Dried Tomato & Basil",
+   "note": "Belladotti's product page lists \"Vegan\" among its key features.",
+   "src": "Belladotti (manufacturer)",
+   "status": "verified",
+   "url": "https://belladotti.com.au/products/couscous-premix-sundried-tomato-basil"
   },
   "6048293": {
    "brand": "Springhill Farm",
@@ -1486,6 +1882,17 @@
    "status": "no",
    "url": ""
   },
+  "6062883": {
+   "brand": "McVitie's",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk, egg",
+   "name": "McVitie's Digestives Raspberry",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6064060": {
    "brand": "Red Rock Deli",
    "cat": "",
@@ -1529,6 +1936,17 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "6068322": {
+   "brand": "Health Lab",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk, egg",
+   "name": "Health Lab Dubai Choc Pistachio Filled Chocolate Diamonds",
+   "note": "Health Lab FAQ: \"Yes, all of our products are vegan-friendly.\"",
+   "src": "Health Lab (manufacturer)",
+   "status": "verified",
+   "url": "https://healthlab.com.au/pages/faqs"
   },
   "6071197": {
    "brand": "Mingle",
@@ -1585,6 +2003,17 @@
    "status": "no",
    "url": ""
   },
+  "6081522": {
+   "brand": "Bibigo",
+   "cat": "b",
+   "checked": "2026-10-21",
+   "mayContain": "milk, egg",
+   "name": "Bibigo Gimbap Rice Roll Spicy Bulgogi",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6081872": {
    "brand": "Fanta",
    "cat": "d",
@@ -1618,6 +2047,28 @@
    "status": "no",
    "url": ""
   },
+  "6085362": {
+   "brand": "Smith's",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Smith's Minis Original Crinkle Potato Chips",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6087515": {
+   "brand": "Solo",
+   "cat": "b",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Solo Ice Pops Original Lemon",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6088223": {
    "brand": "Bulla",
    "cat": "",
@@ -1625,6 +2076,17 @@
    "mayContain": "",
    "name": "Bulla Fruity Pops Raspberry & Mango Sticks",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6088273": {
+   "brand": "Passiona",
+   "cat": "b",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Passiona Ice Pops Passionfruit",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -1684,6 +2146,39 @@
    "status": "verified",
    "url": "https://vegechips.com/vegechips-natural"
   },
+  "637518": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Nescafe Espresso Concentrate Black Liquid Coffee",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "647699": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Nescafe Espresso Concentrate Sweet Vanilla Liquid Coffee",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "66122": {
+   "brand": "Suntory",
+   "cat": "c",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Suntory Boss Coffee Iced Long Black",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "663195": {
    "brand": "Monini",
    "cat": "",
@@ -1717,6 +2212,17 @@
    "status": "no",
    "url": ""
   },
+  "679122": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Coca-Cola Zero Sugar Soft Drink Mini Bottles",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "68721": {
    "brand": "Mingle",
    "cat": "p",
@@ -1737,6 +2243,17 @@
    "note": "Product listing says \"Suitable for vegans and vegetarians\".",
    "src": "Woolworths listing (pack claim)",
    "status": "verified",
+   "url": ""
+  },
+  "707192": {
+   "brand": "Tostitos",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Tostitos Corn Tortilla Chips Share Pack Lightly Salted",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
    "url": ""
   },
   "71422": {
@@ -1805,6 +2322,28 @@
    "status": "no",
    "url": ""
   },
+  "74192": {
+   "brand": "Health Lab",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk, egg",
+   "name": "Health Lab Mudcake Plant Protein Bar",
+   "note": "Health Lab FAQ: \"Yes, all of our products are vegan-friendly.\"",
+   "src": "Health Lab (manufacturer)",
+   "status": "verified",
+   "url": "https://healthlab.com.au/pages/faqs"
+  },
+  "7556": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Golden Pash Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "75816": {
    "brand": "SunRice",
    "cat": "p",
@@ -1838,6 +2377,17 @@
    "status": "verified",
    "url": ""
   },
+  "781061": {
+   "brand": "CC's",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "CC's Corn Chips Original",
+   "note": "Product listing carries the \"Vegan\" pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "785627": {
    "brand": "Raw C",
    "cat": "d",
@@ -1848,6 +2398,17 @@
    "src": "Raw C (manufacturer)",
    "status": "verified",
    "url": "https://rawc.com.au/faqs/"
+  },
+  "793114": {
+   "brand": "Weet-Bix",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Weet-Bix Breakfast Cereal",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "793382": {
    "brand": "Vege Chips",
@@ -1860,12 +2421,45 @@
    "status": "verified",
    "url": "https://www.vegechips.com/snacks/vege-chips-chicken-style/"
   },
+  "800325": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Nescafe Blend 43 Smooth & Creamy Instant Coffee Jar",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "803078": {
    "brand": "Coca-Cola",
    "cat": "d",
    "checked": "2026-10-14",
    "mayContain": "",
    "name": "Coca-Cola Vanilla Zero Sugar Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "803520": {
+   "brand": "Sunrice",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Sunrice Jasmine Fragrant Rice",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "826651": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Apple Blackcurrant Fruit Drink",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -1948,6 +2542,28 @@
    "status": "no",
    "url": ""
   },
+  "89786": {
+   "brand": "Renovatio Bioscience",
+   "cat": "h",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Renovatio Bioscience An Apple A Day Activated Phenolics Antioxidants Tablets",
+   "note": "Renovatio's product page says \"Vegan and free from gluten.\"",
+   "src": "Renovatio (manufacturer)",
+   "status": "verified",
+   "url": "https://renovatio.com.au/products/an-apple-a-day-activated-phenolics-tablets"
+  },
+  "905271": {
+   "brand": "Only Organic",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Only Organic Rice Cakes Carrot & Apple",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "906439": {
    "brand": "Mingle",
    "cat": "p",
@@ -1981,6 +2597,17 @@
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/chow-mein-3-pack"
   },
+  "909063": {
+   "brand": "V Energy",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "V Energy Drink Refresh Blackcurrant & Yuzu",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "910382": {
    "brand": "Kellogg's",
    "cat": "p",
@@ -2002,6 +2629,17 @@
    "src": "Unilever (manufacturer)",
    "status": "verified",
    "url": "https://www.unileverfoodsolutions.com.au/product/hellmann-s-plant-based-mayo-2-4kg-1-EN-880894.html"
+  },
+  "92483": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Golden Circle Pine Coconut Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "931160": {
    "brand": "Twinings",
@@ -2036,6 +2674,17 @@
    "status": "no",
    "url": ""
   },
+  "947873": {
+   "brand": "McVitie's",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk, egg",
+   "name": "McVitie's Cream Crackers",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "95325": {
    "brand": "Sprite",
    "cat": "d",
@@ -2057,6 +2706,83 @@
    "src": "Vege Chips (manufacturer)",
    "status": "verified",
    "url": "http://www.vegechips.com/vegechips-barbeque"
+  },
+  "965776": {
+   "brand": "La Gina",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "La Gina Extra Virgin Olive Oil",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "969729": {
+   "brand": "Bhuja",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Bhuja Ancient Grains Mix",
+   "note": "Majans FAQ: \"Yes, Bhuja snacks are suitable for Vegans and Vegetarians.\"",
+   "src": "Majans (manufacturer)",
+   "status": "verified",
+   "url": "https://majans.com.au/faqs/"
+  },
+  "969732": {
+   "brand": "Bhuja",
+   "cat": "s",
+   "checked": "2026-10-21",
+   "mayContain": "milk",
+   "name": "Bhuja Beer Mix",
+   "note": "Majans FAQ: \"Yes, Bhuja snacks are suitable for Vegans and Vegetarians.\"",
+   "src": "Majans (manufacturer)",
+   "status": "verified",
+   "url": "https://majans.com.au/faqs/"
+  },
+  "98046": {
+   "brand": "Bega",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Bega Peanut Butter Smooth",
+   "note": "Bega FAQ: \"All Bega Peanut Butter products are suitable for Vegetarians and Vegans.\"",
+   "src": "Bega (manufacturer)",
+   "status": "verified",
+   "url": "https://begapeanutbutter.com.au/faqs/"
+  },
+  "98047": {
+   "brand": "Bega",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Bega Light Peanut Butter Smooth",
+   "note": "Bega FAQ: \"All Bega Peanut Butter products are suitable for Vegetarians and Vegans.\"",
+   "src": "Bega (manufacturer)",
+   "status": "verified",
+   "url": "https://begapeanutbutter.com.au/faqs/"
+  },
+  "98048": {
+   "brand": "Bega",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Bega Light Peanut Spread Crunchy",
+   "note": "Bega FAQ: \"All Bega Peanut Butter products are suitable for Vegetarians and Vegans.\"",
+   "src": "Bega (manufacturer)",
+   "status": "verified",
+   "url": "https://begapeanutbutter.com.au/faqs/"
+  },
+  "98049": {
+   "brand": "Bega",
+   "cat": "p",
+   "checked": "2026-10-21",
+   "mayContain": "",
+   "name": "Bega Peanut Butter Crunchy",
+   "note": "Bega FAQ: \"All Bega Peanut Butter products are suitable for Vegetarians and Vegans.\"",
+   "src": "Bega (manufacturer)",
+   "status": "verified",
+   "url": "https://begapeanutbutter.com.au/faqs/"
   }
  }
 }
