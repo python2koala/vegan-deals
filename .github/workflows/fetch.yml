@@ -10,8 +10,6 @@ on:
       force:
         description: 'Fetch again even if this week is already done (1 = yes)'
         default: '0'
-  push:
-    paths: ['scripts/fetch.py']
 permissions:
   contents: write
 concurrency: { group: fetch, cancel-in-progress: false }
@@ -25,8 +23,13 @@ jobs:
       - run: pip install requests tzdata
       - run: python scripts/fetch.py
         env:
+          # Main key first, then backups in order (add APIFY_TOKEN_2 ... APIFY_TOKEN_5 as GitHub secrets).
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-          FORCE: ${{ github.event.inputs.force || (github.event_name == 'push' && '1') || '0' }}
+          APIFY_TOKEN_2: ${{ secrets.APIFY_TOKEN_2 }}
+          APIFY_TOKEN_3: ${{ secrets.APIFY_TOKEN_3 }}
+          APIFY_TOKEN_4: ${{ secrets.APIFY_TOKEN_4 }}
+          APIFY_TOKEN_5: ${{ secrets.APIFY_TOKEN_5 }}
+          FORCE: ${{ github.event.inputs.force || '0' }}
       - name: Build page data
         if: success()
         run: python scripts/build.py

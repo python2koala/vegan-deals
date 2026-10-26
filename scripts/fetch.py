@@ -1,4 +1,4 @@
-"""Weekly fetch: ask Apify for the three Woolworths lists and keep deals that are 40%+ off.
+"""Weekly fetch: ask Apify (main key, then backup keys) for the three Woolworths lists and keep deals that are 40%+ off.
 
 Writes data/candidates.json. Never decides vegan status — that is done by the vegan check step.
 Skips (exit 0) if this week's candidates already exist, unless FORCE=1.
@@ -12,6 +12,8 @@ SOURCES = [
 ]
 MIN_DISCOUNT = 40
 ACTOR = "crawlplant~woolworths-au"
+MIN_CREDIT_USD = 0.50   # skip a key with less than this much monthly credit left
+MIN_ITEMS = 40         # a normal week returns 150-250 items; fewer means the run was cut short
 SYD = zoneinfo.ZoneInfo("Australia/Sydney")
 
 def this_wednesday(now):
@@ -31,30 +33,62 @@ def main():
     if now.weekday() == 2 and now.hour < 7:
         print("Too early on Wednesday (Sydney); new specials may not be live yet."); return
 
-    def apify(urls):
-        r = requests.post(f"https://api.apify.com/v2/acts/{ACTOR}/run-sync-get-dataset-items",
-                          params={"token": os.environ["APIFY_TOKEN"], "timeout": 290},
-                          json={"mode": "urls", "urls": urls, "maxItems": 1500,
-                                "includeRaw": True, "maxAgeHours": 0}, timeout=330)
-        if r.status_code >= 300:
-            open("data/fetch-log.txt", "w").write(f"HTTP {r.status_code}\n{r.text[:3000]}\n")
-            sys.exit(f"Apify HTTP {r.status_code}: {r.text[:300]}")
-        got = r.json()
-        if not isinstance(got, list):
-            sys.exit(f"Apify returned: {str(got)[:300]}")
-        return got
-
     def vegan_tag(it):
         aa = (it.get("raw") or {}).get("AdditionalAttributes") or {}
         return "vegan" in (aa.get("lifestyleanddietarystatement") or "").lower()
 
-    # Link A is the half-price page filtered to Woolworths' Lifestyle "Vegan" tag: apply that filter here.
-    half = [it for it in apify([SOURCES[0]]) if vegan_tag(it)]
-    # Links B and C are Woolworths' own "Vegan" / "Plant Based" searches limited to specials.
-    search = [it for it in apify(SOURCES[1:]) if it.get("isOnSpecial") or (it.get("raw") or {}).get("IsOnSpecial")]
-    items = half + search
-    if not items:
-        sys.exit("Apify returned no items")
+    log = []
+    def note(msg):
+        print(msg); log.append(msg)
+
+    def credit_left(token):
+        """Remaining Apify credit this month in USD, or None if it can't be read."""
+        try:
+            r = requests.get("https://api.apify.com/v2/users/me/limits", params={"token": token}, timeout=30)
+            d = r.json().get("data", {})
+            cur = d.get("current", {}).get("monthlyUsageUsd")
+            cap = d.get("limits", {}).get("maxMonthlyUsageUsd")
+            return None if cur is None or cap is None else round(cap - cur, 2)
+        except Exception:
+            return None
+
+    def apify(token, urls):
+        r = requests.post(f"https://api.apify.com/v2/acts/{ACTOR}/run-sync-get-dataset-items",
+                          params={"token": token, "timeout": 290},
+                          json={"mode": "urls", "urls": urls, "maxItems": 1500,
+                                "includeRaw": True, "maxAgeHours": 0}, timeout=330)
+        if r.status_code >= 300:
+            raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
+        got = r.json()
+        if not isinstance(got, list):
+            raise RuntimeError(f"unexpected reply: {str(got)[:300]}")
+        return got
+
+    # Keys are tried in order: APIFY_TOKEN first, then APIFY_TOKEN_2, APIFY_TOKEN_3 ... as backups.
+    keys = [(n, os.environ[n].strip()) for n in ["APIFY_TOKEN"] + [f"APIFY_TOKEN_{i}" for i in range(2, 6)]
+            if os.environ.get(n, "").strip()]
+    if not keys:
+        sys.exit("No Apify key found (APIFY_TOKEN / APIFY_TOKEN_2 ...)")
+    items, used = None, None
+    for name, token in keys:
+        left = credit_left(token)
+        if left is not None and left < MIN_CREDIT_USD:
+            note(f"{name}: only ${left} credit left this month, skipping to the next key"); continue
+        try:
+            # Link A is the half-price page filtered to Woolworths' Lifestyle "Vegan" tag: apply that filter here.
+            half = [it for it in apify(token, [SOURCES[0]]) if vegan_tag(it)]
+            # Links B and C are Woolworths' own "Vegan" / "Plant Based" searches limited to specials.
+            search = [it for it in apify(token, SOURCES[1:]) if it.get("isOnSpecial") or (it.get("raw") or {}).get("IsOnSpecial")]
+        except Exception as e:
+            note(f"{name}: failed ({str(e)[:200]}), trying the next key"); continue
+        if len(half) + len(search) < MIN_ITEMS:
+            note(f"{name}: only {len(half) + len(search)} items came back (credit may have run out mid-run), trying the next key"); continue
+        items, used = half + search, name
+        note(f"{name}: OK ({len(half)} half-price vegan-tagged, {len(search)} from searches; ${left} credit left before this run)")
+        break
+    open("data/fetch-log.txt", "w").write("\n".join(log) + "\n")
+    if items is None:
+        sys.exit("All Apify keys failed or are out of credit: " + " | ".join(log))
     counts = {"halfPriceVeganTag": len(half), "searches": len(search)}
 
     seen, rows, skipped = set(), [], {"no_price": 0, "under_40": 0, "out_of_stock": 0, "marketplace": 0}
@@ -97,7 +131,7 @@ def main():
             "images": raw.get("DetailsImagePaths") or it.get("images") or [],
         })
     rows.sort(key=lambda x: -x["now"])
-    out = {"week": week, "fetched": now.isoformat(timespec="minutes"), "itemsFromApify": len(items), "bySource": counts,
+    out = {"week": week, "fetched": now.isoformat(timespec="minutes"), "itemsFromApify": len(items), "bySource": counts, "fetchedWith": used,
            "skipped": skipped, "minDiscount": MIN_DISCOUNT, "sources": SOURCES, "rows": rows}
     json.dump(out, open(path, "w"), indent=1, ensure_ascii=False)
     print(f"{len(items)} items from Apify, {len(rows)} candidates at {MIN_DISCOUNT}%+ off; skipped {skipped}")
