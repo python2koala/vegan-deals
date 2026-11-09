@@ -1,0 +1,37 @@
+name: Apify credit check (free)
+on:
+  push:
+    paths: ['.github/workflows/apify-status.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read Apify usage and limits (no scraping, no cost)
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, datetime
+          out = {"checkedUtc": datetime.datetime.utcnow().isoformat(timespec="minutes"), "hasToken": bool(os.environ.get("APIFY_TOKEN"))}
+          def get(path):
+              try:
+                  with urllib.request.urlopen(f"https://api.apify.com/v2/{path}?token={os.environ['APIFY_TOKEN']}", timeout=30) as r:
+                      return json.load(r).get("data", {})
+              except Exception as e:
+                  return {"error": str(e)[:200]}
+          lim = get("users/me/limits")
+          out["limits"] = {"cycle": lim.get("monthlyUsageCycle"), "current": lim.get("current"), "limits": lim.get("limits"), "error": lim.get("error")}
+          me = get("users/me")
+          out["plan"] = (me.get("plan") or {}).get("id") if isinstance(me.get("plan"), dict) else me.get("plan")
+          out["meError"] = me.get("error")
+          os.makedirs("data", exist_ok=True)
+          json.dump(out, open("data/apify-status.json", "w"), indent=1)
+          print(json.dumps(out, indent=1))
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/apify-status.json && git commit -m "Apify credit check result" && git pull -q --rebase && git push
