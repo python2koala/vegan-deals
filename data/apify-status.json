@@ -1,5 +1,5 @@
 {
- "checkedUtc": "2026-11-09T04:19",
+ "checkedUtc": "2026-11-09T04:25",
  "hasToken": true,
  "limits": {
   "cycle": {
@@ -7,9 +7,9 @@
    "endAt": "2026-12-07T23:59:59.999Z"
   },
   "current": {
-   "monthlyUsageUsd": 0.00025985236986457005,
+   "monthlyUsageUsd": 0.00026153974010525836,
    "monthlyActorComputeUnits": 0,
-   "monthlyExternalDataTransferGbytes": 0,
+   "monthlyExternalDataTransferGbytes": 8.43685120344162e-06,
    "monthlyProxySerps": 0,
    "monthlyUnblockerUnits": 0,
    "monthlyResidentialProxyGbytes": 0,
