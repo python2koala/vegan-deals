@@ -1,7 +1,5 @@
 name: Apify credit check (free)
 on:
-  push:
-    paths: ['.github/workflows/apify-status.yml']
   workflow_dispatch:
 permissions:
   contents: write
