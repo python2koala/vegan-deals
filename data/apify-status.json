@@ -1,0 +1,42 @@
+{
+ "checkedUtc": "2026-11-09T04:19",
+ "hasToken": true,
+ "limits": {
+  "cycle": {
+   "startAt": "2026-11-08T00:00:00.000Z",
+   "endAt": "2026-12-07T23:59:59.999Z"
+  },
+  "current": {
+   "monthlyUsageUsd": 0.00025985236986457005,
+   "monthlyActorComputeUnits": 0,
+   "monthlyExternalDataTransferGbytes": 0,
+   "monthlyProxySerps": 0,
+   "monthlyUnblockerUnits": 0,
+   "monthlyResidentialProxyGbytes": 0,
+   "actorMemoryGbytes": 0,
+   "actorCount": 0,
+   "actorTaskCount": 0,
+   "scheduleCount": 0,
+   "activeActorJobCount": 0,
+   "teamAccountSeatCount": 1
+  },
+  "limits": {
+   "maxMonthlyUsageUsd": 5,
+   "maxMonthlyActorComputeUnits": 625,
+   "maxMonthlyExternalDataTransferGbytes": 1000,
+   "maxMonthlyProxySerps": 50000,
+   "maxMonthlyUnblockerUnits": 1000000,
+   "maxMonthlyResidentialProxyGbytes": 20,
+   "maxActorMemoryGbytes": 16,
+   "maxActorCount": 500,
+   "maxActorTaskCount": 5000,
+   "maxScheduleCount": 100,
+   "maxConcurrentActorJobs": 5,
+   "maxTeamAccountSeatCount": 9,
+   "dataRetentionDays": 7
+  },
+  "error": null
+ },
+ "plan": "FREE",
+ "meError": null
+}
