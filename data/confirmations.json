@@ -34,6 +34,17 @@
    "status": "verified",
    "url": "https://www.wholeearthsweetener.com.au/products/whole-earth-monk-fruit-sticks"
   },
+  "113131": {
+   "brand": "BC Snacks",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "BC Snacks Honeycomb Chocolate Crunch High Protein Bar",
+   "note": "Ingredients include whey protein concentrate, milk fat and gelatine.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "113612": {
    "brand": "Bhuja",
    "cat": "s",
@@ -144,12 +155,45 @@
    "status": "no",
    "url": ""
   },
+  "136874": {
+   "brand": "Mount Franklin",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Mount Franklin Lightly Sparkling Water Passionfruit Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "137848": {
    "brand": "Coca-Cola",
    "cat": "d",
    "checked": "2026-10-14",
    "mayContain": "",
    "name": "Coca-Cola Caffeine Free Zero Sugar Soft Drink Bottle 1.25L",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "140640": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Coca-Cola Caffeine Free Zero Sugar Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "15917": {
+   "brand": "Mount Franklin",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Mount Franklin Spring Water Bottle",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -210,6 +254,17 @@
    "status": "no",
    "url": ""
   },
+  "16119": {
+   "brand": "Riviana",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Riviana Basmati Rice Pakistan Long Grain",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "169031": {
    "brand": "Mingle",
    "cat": "p",
@@ -249,6 +304,17 @@
    "checked": "2026-10-21",
    "mayContain": "",
    "name": "V Energy Zero Sugar Blue Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "176210": {
+   "brand": "Mount Franklin",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Mount Franklin Lightly Sparkling Water Mango",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -375,6 +441,17 @@
    "status": "verified",
    "url": "https://majans.com.au/faqs/"
   },
+  "210693": {
+   "brand": "Old El Paso",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Old El Paso Jumbo Taco Kit Taco Kit",
+   "note": "Product listing says the kit \"is suitable for vegetarians and vegans\".",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "217099": {
    "brand": "Mingle",
    "cat": "p",
@@ -385,6 +462,17 @@
    "src": "Mingle (manufacturer)",
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/mild-chipotle-taco"
+  },
+  "220986": {
+   "brand": "Mount Franklin",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Mount Franklin No Sugar Lightly Sparkling Pineapple Water Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "221678": {
    "brand": "Fanta",
@@ -452,6 +540,17 @@
    "status": "no",
    "url": ""
   },
+  "228154": {
+   "brand": "Old El Paso",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Old El Paso Stand 'N Stuff Taco Kit Mexican Style",
+   "note": "Product listing says \"This product is suitable for vegetarians and vegans.\"",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "229246": {
    "brand": "Oreo",
    "cat": "s",
@@ -473,6 +572,17 @@
    "src": "Musashi (manufacturer)",
    "status": "verified",
    "url": "https://musashi.com/pages/dietary-faqs"
+  },
+  "230157": {
+   "brand": "Vitasoy",
+   "cat": "b",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Vitasoy Greek Style Soy Yoghurt Hint Of Strawberry",
+   "note": "Vitasoy product page shows a \"vegan friendly\" badge and lists \"live vegan cultures\".",
+   "src": "Vitasoy (manufacturer)",
+   "status": "verified",
+   "url": "https://soy.com.au/product/greek-style-soy-yogurt-strawberry-140g/"
   },
   "231452": {
    "brand": "Passiona",
@@ -525,6 +635,28 @@
    "mayContain": "",
    "name": "Musashi Energy Drink Zero Sugar Green Apple",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "248678": {
+   "brand": "Old El Paso",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Old El Paso Fajita Dinner Kit Mexican Style",
+   "note": "Listing says \"suitable for vegetarians and vegans\", but tortillas contain mono- and diglycerides (471) and glycerin (422) of unstated origin; Old El Paso site silent.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "caution",
+   "url": ""
+  },
+  "251433": {
+   "brand": "Old El Paso",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Old El Paso Hard 'N Soft Taco Kit Mexican Style",
+   "note": "Listing only suggests swapping meat for vegetables to make it vegan; no vegan claim for the kit, and tortillas contain 471.",
    "src": "",
    "status": "no",
    "url": ""
@@ -660,6 +792,17 @@
    "src": "Vege Chips (manufacturer)",
    "status": "verified",
    "url": "https://www.vegechips.com/snacks/vege-chips-sea-salt-vinegar/"
+  },
+  "274324": {
+   "brand": "Thins",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk",
+   "name": "Thins Chips Original",
+   "note": "Product listing says \"Vegan Friendly*\" and notes it is made in a facility with non-vegan products.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
   },
   "275269": {
    "brand": "Macro",
@@ -815,6 +958,17 @@
    "status": "verified",
    "url": ""
   },
+  "319951": {
+   "brand": "Thins",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk",
+   "name": "Thins Chips Salt & Vinegar",
+   "note": "Product listing says \"Vegan Friendly*\" and notes it is made in a facility with non-vegan products.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "322924": {
    "brand": "Kirks",
    "cat": "d",
@@ -892,6 +1046,17 @@
    "status": "no",
    "url": ""
   },
+  "33036": {
+   "brand": "Uncle Tobys",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Uncle Tobys Rolled Oats Traditional Porridge",
+   "note": "Uncle Tobys' own product page shows its 'Vegan friendly' attribute switched off, which conflicts with the Woolworths claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "333258": {
    "brand": "Sunrice",
    "cat": "",
@@ -942,6 +1107,28 @@
    "checked": "2026-10-21",
    "mayContain": "",
    "name": "Golden Circle Sunshine Punch Fruit Drink",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "36029": {
+   "brand": "Arnott's",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk, egg",
+   "name": "Arnott's Lemon Crisp Cream Biscuits",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "36182": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Golden Circle Sunshine Punch Poppers",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -1024,6 +1211,17 @@
    "status": "verified",
    "url": ""
   },
+  "37562": {
+   "brand": "Uncle Tobys",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Uncle Tobys Rolled Oats Quick Porridge Oats Porridge",
+   "note": "Uncle Tobys' own product page shows its 'Vegan friendly' attribute switched off, which conflicts with the Woolworths claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "37941": {
    "brand": "Australian Organic Food Co.",
    "cat": "",
@@ -1100,6 +1298,28 @@
    "src": "Real Foods (manufacturer)",
    "status": "verified",
    "url": "https://www.cornthins.com/frequently-asked-questions/"
+  },
+  "43801": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Golden Circle Orange Poppers",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "43802": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Golden Circle Tropical Punch Poppers",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "442185": {
    "brand": "Schweppes",
@@ -1233,6 +1453,28 @@
    "status": "no",
    "url": ""
   },
+  "49967": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Golden Circle Apple & Raspberry Poppers",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "49969": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Golden Circle Fruit Drink Poppers Summer Berries",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "503327": {
    "brand": "Arnott's",
    "cat": "",
@@ -1240,6 +1482,28 @@
    "mayContain": "",
    "name": "Arnott's Snack Right Crispy Cracker Biscuits Sea Salt & Vinegar",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "507619": {
+   "brand": "Vegeta",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "milk, egg",
+   "name": "Vegeta Vegetables With Noodles Cup Soup",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "52980": {
+   "brand": "Bisko Bakehouse",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk, egg",
+   "name": "Bisko Bakehouse Gingerbread Mini People",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -1409,6 +1673,17 @@
    "status": "verified",
    "url": "https://nuttelex.com.au/product/beef-style-stock/"
   },
+  "6013231": {
+   "brand": "Jammie Dodgers",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Jammie Dodgers Raspberry Biscuits",
+   "note": "Listing carries a Vegan pack claim, but glycerol (422) has unstated origin and no manufacturer confirmation was found.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "caution",
+   "url": ""
+  },
   "6015087": {
    "brand": "Nuttelex",
    "cat": "p",
@@ -1442,12 +1717,34 @@
    "status": "no",
    "url": ""
   },
+  "6018775": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Nescafe Farmers Origins Mexico Espresso Coffee Capsules",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6018784": {
    "brand": "Nesquik",
    "cat": "p",
    "checked": "2026-10-21",
    "mayContain": "milk",
    "name": "Nesquik Choco Crunchy Breakfast Cereal",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6019011": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Nescafe Farmers Origins Andes Lungo Coffee Capsules",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -1607,6 +1904,28 @@
    "status": "no",
    "url": ""
   },
+  "6044298": {
+   "brand": "Frisp",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Frisp Coconut Crisps",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6045820": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Ginger Beer Soft Drink Mixer Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6045958": {
    "brand": "Magnum",
    "cat": "b",
@@ -1683,6 +2002,28 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "6053658": {
+   "brand": "Strong Roots",
+   "cat": "b",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Strong Roots Proper Potato Chips",
+   "note": "Strong Roots Australian FAQ: \"Yes, all Strong Roots products are vegan friendly.\"",
+   "src": "Strong Roots (manufacturer)",
+   "status": "verified",
+   "url": "https://strongroots.com/en-au/pages/faq"
+  },
+  "6054191": {
+   "brand": "Strong Roots",
+   "cat": "b",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Strong Roots Crispy Crinkle Potato Fries",
+   "note": "Strong Roots Australian FAQ: \"Yes, all Strong Roots products are vegan friendly.\"",
+   "src": "Strong Roots (manufacturer)",
+   "status": "verified",
+   "url": "https://strongroots.com/en-au/pages/faq"
   },
   "6054255": {
    "brand": "Cobs",
@@ -1794,6 +2135,17 @@
    "status": "no",
    "url": ""
   },
+  "6056862": {
+   "brand": "Hart & Soul",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "milk, egg",
+   "name": "Hart & Soul Japanese Style Miso & Veg Noodle Soup Pouch",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6056864": {
    "brand": "Oreo",
    "cat": "s",
@@ -1804,6 +2156,50 @@
    "src": "Mondelez (manufacturer)",
    "status": "verified",
    "url": "https://www.oreo.com.au/faqs"
+  },
+  "6056984": {
+   "brand": "Your Spud Co",
+   "cat": "b",
+   "checked": "2026-11-11",
+   "mayContain": "milk",
+   "name": "Your Spud Co Potato Scoop Fries",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6058701": {
+   "brand": "Hellmann's",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Hellmann's Sweet & Sour Sauce",
+   "note": "Product listing says \"This condiment is suitable for vegans\".",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "6058704": {
+   "brand": "The SnakYard",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "The SnakYard Jujube Date & Walnut",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6059195": {
+   "brand": "The SnakYard",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "The SnakYard Sweet Potato Sticks",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
   },
   "6062016": {
    "brand": "Pringles",
@@ -1904,6 +2300,28 @@
    "status": "no",
    "url": ""
   },
+  "6064657": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Twinings Cold Infusions Lemon & Ginger",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6065985": {
+   "brand": "Twinings",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Twinings Cold Infusions Mango & Passionfruit",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6065996": {
    "brand": "Twinings",
    "cat": "d",
@@ -1992,6 +2410,39 @@
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/new-mambo-italiano-mix-seasoning-large-bottle"
   },
+  "6071664": {
+   "brand": "Moccona",
+   "cat": "c",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Moccona Liquid Coffee Concentrate Sachets Espresso Mocha",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6079325": {
+   "brand": "Fry's",
+   "cat": "b",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Fry's Frozen Plant-Based Classic Sizzlers",
+   "note": "Fry's says every ingredient it uses is \"100% vegan\" and calls Classic Sizzlers vegan sausages.",
+   "src": "Fry's (manufacturer)",
+   "status": "verified",
+   "url": "https://fryfamilyfood.com/au/our-ingredients"
+  },
+  "6079761": {
+   "brand": "Oreo",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk",
+   "name": "Oreo Double Stuff Gingerbread Bon Bon",
+   "note": "Mondelez's Oreo FAQ does not list this Oreo among its vegan friendly varieties.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6081096": {
    "brand": "Ho Mai",
    "cat": "",
@@ -2069,6 +2520,17 @@
    "status": "no",
    "url": ""
   },
+  "6087694": {
+   "brand": "Mount Franklin",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Mount Franklin Lightly Sparkling Water Blood Orange",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6088223": {
    "brand": "Bulla",
    "cat": "",
@@ -2113,6 +2575,61 @@
    "status": "verified",
    "url": "https://wearegreenback.com/products/killer-coffee-protein-bar"
   },
+  "6092004": {
+   "brand": "Health Lab",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk, egg",
+   "name": "Health Lab Pistachio & Custard Double Filled Protein Ball",
+   "note": "Health Lab FAQ: \"Yes, all of our products are vegan-friendly.\"",
+   "src": "Health Lab (manufacturer)",
+   "status": "verified",
+   "url": "https://healthlab.com.au/pages/faqs"
+  },
+  "6092033": {
+   "brand": "Health Lab",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk, egg",
+   "name": "Health Lab Caramelised Biscuit Cookie Butter Filled Ball",
+   "note": "Health Lab FAQ: \"Yes, all of our products are vegan-friendly.\"",
+   "src": "Health Lab (manufacturer)",
+   "status": "verified",
+   "url": "https://healthlab.com.au/pages/faqs"
+  },
+  "6092064": {
+   "brand": "Health Lab",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk, egg",
+   "name": "Health Lab Neapolitan Cheesecake Choc Coated Protein Ball",
+   "note": "Health Lab FAQ: \"Yes, all of our products are vegan-friendly.\"",
+   "src": "Health Lab (manufacturer)",
+   "status": "verified",
+   "url": "https://healthlab.com.au/pages/faqs"
+  },
+  "6093286": {
+   "brand": "Kirks",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Kirks Pasito Soft Drink Bottles",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6093821": {
+   "brand": "Kirks",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Kirks Creaming Soda Soft Drink Bottles",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "62170": {
    "brand": "Sprite",
    "cat": "d",
@@ -2146,6 +2663,94 @@
    "status": "verified",
    "url": "https://vegechips.com/vegechips-natural"
   },
+  "634266": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Dry Ginger Ale Soft Drink Classic Mixers Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "634268": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Zero Sugar Mixer Dry Ginger Ale",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "634274": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Zero Sugar Mixer Indian Tonic Water Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "634277": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Indian Tonic Water Mixer Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "634281": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Lime Soda Water With Lime Juice Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "634290": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Lemon Lime Bitters Soft Drink Mixer Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "634291": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Zero Sugar Agrum Citrus Blend Soft Drink Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "635960": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Soda Water Mixer Bottle Mixers",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "637518": {
    "brand": "Nescafe",
    "cat": "c",
@@ -2168,12 +2773,67 @@
    "status": "no",
    "url": ""
   },
+  "648359": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Nescafe Farmers Origins South Asia Coffee Capsules",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "65686": {
+   "brand": "BC Snacks",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "milk",
+   "name": "BC Snacks Dark Chocolate Coconut Plant Based Protein Bar",
+   "note": "BC Snacks product page: \"Vegan-friendly plant-based protein bar made from premium ingredients enrobed in dark chocolate.\"",
+   "src": "BC Snacks (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bcsnacks.com.au/products/plant-based/dark-chocolate-coconut/"
+  },
   "66122": {
    "brand": "Suntory",
    "cat": "c",
    "checked": "2026-10-21",
    "mayContain": "",
    "name": "Suntory Boss Coffee Iced Long Black",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "662713": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Agrum Blood Orange Soft Drink Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "663046": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Nescafe Farmers Origins India Espresso Coffee Capsules",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "663077": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Nescafe Farmers Origins Brazil Lungo Coffee Capsules",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -2197,6 +2857,61 @@
    "mayContain": "",
    "name": "Monini Classico Extra Virgin Olive Oil",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim, trusted sites or the packaging.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "663242": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Nescafe Farmers Origins Africas Ristretto Coffee Capsules",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "663267": {
+   "brand": "Nescafe",
+   "cat": "c",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Nescafe Farmers Origins Colombia Espresso Coffee Capsules",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "663675": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Golden Circle Apple & Blackcurrant Poppers",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "669379": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Coca-Cola Zero Sugar Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "676160": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Coca-Cola Vanilla Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
    "url": ""
@@ -2234,6 +2949,17 @@
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/taco-mexican-fiesta"
   },
+  "691635": {
+   "brand": "Mount Franklin",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Mount Franklin Lightly Sparkling Peach Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "701726": {
    "brand": "Kellogg's",
    "cat": "p",
@@ -2245,12 +2971,56 @@
    "status": "verified",
    "url": ""
   },
+  "703393": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Lemonade Soft Drink Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "703402": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Traditional Raspberry Soft Drink Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "707192": {
    "brand": "Tostitos",
    "cat": "s",
    "checked": "2026-10-21",
    "mayContain": "",
    "name": "Tostitos Corn Tortilla Chips Share Pack Lightly Salted",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "707972": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Traditional Brown Creaming Soda Soft Drink Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "708254": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Zero Sugar Lemonade Soft Drink Bottle",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -2355,6 +3125,17 @@
    "status": "no",
    "url": ""
   },
+  "760341": {
+   "brand": "Old El Paso",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Old El Paso Chili & Garlic Rice Kit Mexican Style",
+   "note": "Product listing says \"This product is suitable for vegetarians and vegans.\"",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "76529": {
    "brand": "Nature's Way",
    "cat": "p",
@@ -2375,6 +3156,17 @@
    "note": "The pack says \"VEGAN\" on the front and \"Vegan friendly\" on the side panel.",
    "src": "Product packaging",
    "status": "verified",
+   "url": ""
+  },
+  "77938": {
+   "brand": "Mount Franklin",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Mount Franklin Lightly Sparkling Water lime Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
    "url": ""
   },
   "781061": {
@@ -2399,12 +3191,67 @@
    "status": "verified",
    "url": "https://rawc.com.au/faqs/"
   },
+  "787266": {
+   "brand": "Old El Paso",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Old El Paso Stand 'N Stuff Soft Taco Kit Mexican Style",
+   "note": "Listing says \"suitable for vegetarians and vegans\", but tortillas contain mono- and diglycerides (471) and glycerin (422) of unstated origin; Old El Paso site silent.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "caution",
+   "url": ""
+  },
   "793114": {
    "brand": "Weet-Bix",
    "cat": "p",
    "checked": "2026-10-21",
    "mayContain": "",
    "name": "Weet-Bix Breakfast Cereal",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "793278": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Coca-Cola Diet Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "793280": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Sprite Zero Sugar Lemonade Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "793285": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Sprite Lemonade Soft Drink Cans",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "793315": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Coca-Cola Classic Soft Drink Cans",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -2427,6 +3274,17 @@
    "checked": "2026-10-21",
    "mayContain": "",
    "name": "Nescafe Blend 43 Smooth & Creamy Instant Coffee Jar",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "80047": {
+   "brand": "Mount Franklin",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Mount Franklin Lightly Sparkling Raspberry",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -2471,6 +3329,39 @@
    "checked": "2026-10-14",
    "mayContain": "",
    "name": "Twinings English Breakfast Extra Strong Tea Bags 80 pack",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "841551": {
+   "brand": "Frisp",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Frisp Strawberry Crisps",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "841552": {
+   "brand": "Frisp",
+   "cat": "s",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Frisp Mango Crisps",
+   "note": "Product listing carries the Vegan pack claim.",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
+  "844371": {
+   "brand": "Heinz",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Heinz Tomato Ketchup Squeezy Bottle",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
@@ -2552,6 +3443,17 @@
    "src": "Renovatio (manufacturer)",
    "status": "verified",
    "url": "https://renovatio.com.au/products/an-apple-a-day-activated-phenolics-tablets"
+  },
+  "89801": {
+   "brand": "Schweppes",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Schweppes Zero Sugar Mixers Lemon Lime & Bitters Soft Drink Bottle",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "905271": {
    "brand": "Only Organic",
@@ -2652,6 +3554,17 @@
    "status": "no",
    "url": ""
   },
+  "93453": {
+   "brand": "Old El Paso",
+   "cat": "p",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Old El Paso Taco Kit Taco Kit",
+   "note": "Product listing says \"This product is suitable for vegetarians and vegans.\"",
+   "src": "Woolworths listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "94179": {
    "brand": "Twinings",
    "cat": "d",
@@ -2680,6 +3593,17 @@
    "checked": "2026-10-21",
    "mayContain": "milk, egg",
    "name": "McVitie's Cream Crackers",
+   "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "94950": {
+   "brand": "Golden Circle",
+   "cat": "d",
+   "checked": "2026-11-11",
+   "mayContain": "",
+   "name": "Golden Circle Apple Splash Poppers",
    "note": "No vegan confirmation found from the manufacturer, the Woolworths pack claim or trusted sites; packaging not yet checked.",
    "src": "",
    "status": "no",
