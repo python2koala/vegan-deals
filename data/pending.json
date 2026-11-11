@@ -1,8 +1,1385 @@
 {
  "week": {
-  "from": "2026-10-21",
-  "to": "2026-10-27"
+  "from": "2026-11-11",
+  "to": "2026-11-17"
  },
- "count": 0,
- "rows": []
+ "count": 84,
+ "rows": [
+  {
+   "code": "16119",
+   "name": "Riviana Basmati Rice Pakistan Long Grain",
+   "brand": "Riviana",
+   "size": "5kg",
+   "pct": 50,
+   "category": "PASTA / RICE",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Rice",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/016119.jpg"
+   ]
+  },
+  {
+   "code": "669379",
+   "name": "Coca-Cola Zero Sugar Soft Drink Cans",
+   "brand": "Coca-Cola",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Colour (150d), Food Acids (338, 331), Sweeteners (951, 950), Flavour, Caffeine.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/669379.jpg"
+   ]
+  },
+  {
+   "code": "793315",
+   "name": "Coca-Cola Classic Soft Drink Cans",
+   "brand": "Coca-Cola",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Colour (150d), Food Acid (338), Flavour, Caffeine.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/793315.jpg"
+   ]
+  },
+  {
+   "code": "77938",
+   "name": "Mount Franklin Lightly Sparkling Water lime Cans",
+   "brand": "Mount Franklin",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "LIFESTYLE/WATER NON CARBONATED",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Spring Water, Flavour.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/077938.jpg"
+   ]
+  },
+  {
+   "code": "793280",
+   "name": "Sprite Zero Sugar Lemonade Soft Drink  Cans",
+   "brand": "Sprite",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated water, food acids (330, 331), flavour, sweeteners (951,950), preservatives (202, 211).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/793280.jpg"
+   ]
+  },
+  {
+   "code": "136874",
+   "name": "Mount Franklin Lightly Sparkling Water Passionfruit Cans",
+   "brand": "Mount Franklin",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "LIFESTYLE/WATER NON CARBONATED",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Spring Water, Flavour.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/136874.jpg"
+   ]
+  },
+  {
+   "code": "676160",
+   "name": "Coca-Cola Vanilla Soft Drink Cans",
+   "brand": "Coca-Cola",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Colour (150d), Food Acid (338), Flavour, Caffeine.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/676160.jpg"
+   ]
+  },
+  {
+   "code": "140640",
+   "name": "Coca-Cola Caffeine Free Zero Sugar Soft Drink Cans",
+   "brand": "Coca-Cola",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Colour (150d), Food Acids (338, 331), Sweeteners (951, 950), Flavour.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/140640.jpg"
+   ]
+  },
+  {
+   "code": "80047",
+   "name": "Mount Franklin Lightly Sparkling Raspberry",
+   "brand": "Mount Franklin",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "LIFESTYLE/WATER NON CARBONATED",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Spring Water, Flavour.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/080047.jpg"
+   ]
+  },
+  {
+   "code": "793285",
+   "name": "Sprite Lemonade Soft Drink Cans",
+   "brand": "Sprite",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated water, sugar, food acids (330, 334, 331), flavour, preservative (202), sweeteners (951, 950).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/793285.jpg"
+   ]
+  },
+  {
+   "code": "793278",
+   "name": "Coca-Cola Diet Soft Drink Cans",
+   "brand": "Coca-Cola",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Colour (150d), Food Acids (338, 330), Sweeteners (951, 950), Flavour, Caffeine.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/793278.jpg"
+   ]
+  },
+  {
+   "code": "6087694",
+   "name": "Mount Franklin Lightly Sparkling Water Blood Orange",
+   "brand": "Mount Franklin",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "LIFESTYLE/WATER NON CARBONATED",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Spring Water, Flavour.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6087694.jpg"
+   ]
+  },
+  {
+   "code": "220986",
+   "name": "Mount Franklin No Sugar Lightly Sparkling Pineapple Water Cans",
+   "brand": "Mount Franklin",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "LIFESTYLE/WATER NON CARBONATED",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Spring Water, Flavour.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/220986.jpg"
+   ]
+  },
+  {
+   "code": "176210",
+   "name": "Mount Franklin Lightly Sparkling Water Mango",
+   "brand": "Mount Franklin",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "LIFESTYLE/WATER NON CARBONATED",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated spring water, natural flavour",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/176210.jpg"
+   ]
+  },
+  {
+   "code": "691635",
+   "name": "Mount Franklin Lightly Sparkling Peach Cans",
+   "brand": "Mount Franklin",
+   "size": "375mL x 10 pack",
+   "pct": 50,
+   "category": "LIFESTYLE/WATER NON CARBONATED",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Spring Water, Flavour.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/691635.jpg"
+   ]
+  },
+  {
+   "code": "6093286",
+   "name": "Kirks Pasito Soft Drink Bottles",
+   "brand": "Kirks",
+   "size": "300mL x 12 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated\n  Water, Sugar, Passionfruit Juice from Concentrate (0.5%), Food Acid (330),\n  Flavour, Preservative (202), Colours (102, 129), Sweeteners (950, 955).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6093286.jpg"
+   ]
+  },
+  {
+   "code": "6093821",
+   "name": "Kirks Creaming Soda Soft Drink Bottles",
+   "brand": "Kirks",
+   "size": "300mL x 12 pack",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated\n  Water, Sugar, Flavour, Food Acid (330), Preservative (202), Colours (150d,\n  122, 129), Sweeteners (950, 955).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6093821.jpg"
+   ]
+  },
+  {
+   "code": "6059195",
+   "name": "The SnakYard Sweet Potato Sticks",
+   "brand": "The SnakYard",
+   "size": "80g x 4 pack",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "VEGAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Sweet Potato (100%)",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6059195.jpg"
+   ]
+  },
+  {
+   "code": "251433",
+   "name": "Old El Paso Hard 'N Soft Taco Kit Mexican Style",
+   "brand": "Old El Paso",
+   "size": "350g",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "For a meat-free option, replace the meat with vegetables to make it vegan"
+   ],
+   "ingredients": "Soft Tacos (36%): Wheat Flour (60%), Water, Humectant (Glycerin), Vegetable Oil, Wheat Gluten, Emulsifier (Mono- and Di-glycerides of Fatty Acids), Dextrose, Raising Agents (Sodium Bicarbonate, Sodium Acid Pyrophosphate), Food Acids (Fumaric Acid, Glucono Delta-lactone), Salt, Preservative (Potassium Sorbate). Salsa for topping (35%): Water, Tomato Paste, Rehydrated Capsicum, Onion Modified Maize Starch (1422), Salt, Sugar, Paprika, Food Acid (Citric Acid), Chili Extract, Garlic Powder. Stand 'N Stuff Taco Shells (20%): Ground Corn (79%), Vegetable Oil, Salt.Spice Mix (9%): Sugar, Maize Flour, Salt, Garlic (8%), Paprika (7%), Cumin, Tomato (6%), Onion, Food Acid (Citric Acid), Oregano, Chili Powder, Anticaking Agent (Silicon Dioxide), Colour (Paprika Extract), Ground Bay Leaves.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/251433.jpg"
+   ]
+  },
+  {
+   "code": "787266",
+   "name": "Old El Paso Stand 'N Stuff Soft Taco Kit Mexican Style",
+   "brand": "Old El Paso",
+   "size": "348g",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "This product is suitable for vegetarians and vegans"
+   ],
+   "ingredients": "Stand N Stuff Tortillas (55%): Wheat Flour (68%), Water, Humectant (Glycerin), Vegetable Oil, Raising Agents (Sodium Bicarbonate, Calcium Phosphate), Emulsifier (Mono- And Di-Glycerides Of Fatty Acids), Dextrose, Salt. Salsa For Topping (36%): Water, Tomato Paste (Tomato, Food Acid (Citric Acid)), Onion, Modified Corn Starch (1422), Salt, Green Capsicum, Sugar, Vinegar, Onion Powder, Paprika, Food Acid (Citric Acid), Cayenne Pepper, Garlic Powder. Spice Mix (9%): Sugar, Maize Flour, Salt, Garlic (8%), Paprika (7%), Cumin, Tomato (6%), Onion, Food Acid (Citric Acid), Oregano, Cayenne Pepper, Anticaking Agent (Calcium Phosphate), Colour (Paprika Extract), Ground Bay Leaves.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/787266.jpg"
+   ]
+  },
+  {
+   "code": "210693",
+   "name": "Old El Paso Jumbo Taco Kit Taco Kit",
+   "brand": "Old El Paso",
+   "size": "345g",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "Make it meat free and swap out the meat for veggies to make it vegan",
+    "This product is suitable for vegetarians and vegans",
+    "aso Jumbo Taco Kit makes 10 tacos and is suitable for vegetarians and vegans"
+   ],
+   "ingredients": "Jumbo Taco Shells (55%): Ground Corn (79%), Vegetable Oil, Salt. Salsa For Topping (36%): Water, Tomato Paste, Rehydrated Capsicum, Onion, Modified Maize Starch (1422), Salt, Sugar, Paprika, Food Acid (Citric Acid), Chili Extract, Garlic Powder.Spice Mix (9%): Sugar, Maize Flour, Salt, Garlic (8%), Paprika (7%), Cumin, Tomato (6%), Onion, Food Acid (Citric Acid), Oregano, Chili, Anticaking Agent (Silicon Dioxide), Colour (Paprika Extract), Ground Bay Leaves.",
+   "mayContain": "Gluten, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/210693.jpg"
+   ]
+  },
+  {
+   "code": "228154",
+   "name": "Old El Paso Stand 'N Stuff Taco Kit Mexican Style",
+   "brand": "Old El Paso",
+   "size": "295g",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "Suitable for vegetarians and vegans",
+    "This product is suitable for vegetarians and vegans"
+   ],
+   "ingredients": "Stand 'N Stuff Taco Shells (48%): Ground Corn (79%), Vegetable Oil, Salt. Salsa For Topping (42%): Water, Tomato Paste, Rehydrated Capsicum, Onion, Modified Corn Starch (1422), Salt, Sugar, Paprika, Food Acid (Citric Acid), Chili Powder, Garlic Powder. Spice Mix (10%): Sugar, Maize Flour, Salt, Garlic (8%), Paprika (7%), Cumin, Tomato (6%), Onion, Food Acid (Citric Acid), Oregano, Chili, Anticaking Agent (Silicon Dioxide), Colour (Paprika Extract), Ground Bay Leaves.",
+   "mayContain": "Gluten, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/228154.jpg"
+   ]
+  },
+  {
+   "code": "760341",
+   "name": "Old El Paso Chili & Garlic Rice Kit Mexican Style",
+   "brand": "Old El Paso",
+   "size": "355g",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "This product is suitable for vegetarians and vegans"
+   ],
+   "ingredients": "Seasoned Quick Cook Rice (57%): White Long Grain Parboiled Rice (95%), Maize Maltodextrin, Tomato Powder, Salt, Sugar, Colour (Paprika Extract), Parsley, Vegetable Oil, Anticaking Agent (Silicon Dioxide), Food Acid (Citric Acid). Cooking Sauce (42%): Tomatoes, Yellow Capsicum, Onion, Water, Salt, Garlic (3%), Smoky Red Chili Paste (3%) (Contains Wheat), Sugar, Flavours, Modified Corn Starch (1442), Vinegar, Food Acid (Citric Acid), Lemon Juice Concentrate (Contains Sulphites), Firming Agent (Calcium Chloride), Colour (Paprika Extract). Spice Mix (1%): Maltodextrin (Wheat), Tomato, Salt, Sugar, Paprika, Anticaking Agent (Calcium Phosphate), Black Pepper, Cayenne Pepper, Colour (Paprika Extract), Food Acid (Citric Acid), Sunflower Oil, Oregano, Parsley.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/760341.jpg"
+   ]
+  },
+  {
+   "code": "6079325",
+   "name": "Fry's Frozen Plant-Based Classic Sizzlers",
+   "brand": "Fry's",
+   "size": "300g 6 pack",
+   "pct": 40,
+   "category": "FROZEN MEALS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6079325.jpg"
+   ]
+  },
+  {
+   "code": "6071664",
+   "name": "Moccona Liquid Coffee Concentrate Sachets Espresso Mocha",
+   "brand": "Moccona",
+   "size": "8 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Liquid Coffee Extract 83% (Soluble Coffee Solids 6.7%), Sugar, Water, Chocolate Flavourings 1.2%, Acidity Regulators (340, 500), Caramelized Sugar.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6071664.jpg"
+   ]
+  },
+  {
+   "code": "248678",
+   "name": "Old El Paso Fajita Dinner Kit Mexican Style",
+   "brand": "Old El Paso",
+   "size": "485g",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "This product is suitable for vegetarians and vegans",
+    "Tip: Make it meat free and swap out the meat for veggies to make it vegan"
+   ],
+   "ingredients": "Soft & Flexible Tortillas (66%), Wheat Flour (60%), Water, Humectant (Glycerin), Vegetable Oil, Wheat Gluten, Emulsifier (Mono- And Di-Glycerides Of Fatty Acids), Dextrose, Raising Agents (Sodium Bicarbonate, Sodium Acid Pyrophosphate), Food Acids (Fumaric Acid, Glucono Delta-Lactone), Salt, Preservative (Potassium Sorbate). Salsa For Topping (26%) Water, Tomato Paste, Capsicum, Onion, Modified Maize Starch (1422), Salt, Sugar, Paprika, Food Acid (Citric Acid), Chili, Garlic.Spice Mix (8%) Sugar, Rice Flour, Capsicum (12,5%), Soy Sauce Powder (Soy Sauce (Contains Wheat), Maltodextrin, Salt), Salt, Onion, Paprika (6%), Garlic, Oregano, Parsley, Food Acid (Citric Acid), Vegetable Oil, Black Pepper, Smoke Flavour, Anticaking Agent (Silicon Dioxide), Cayenne Pepper.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/248678.jpg"
+   ]
+  },
+  {
+   "code": "93453",
+   "name": "Old El Paso Taco Kit Taco Kit",
+   "brand": "Old El Paso",
+   "size": "290g",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "Suitable for vegetarians and vegans",
+    "This product is suitable for vegetarians and vegans"
+   ],
+   "ingredients": "Original Taco Shells (47%): Ground Corn (79%), Vegetable Oil, Salt. Salsa for Topping (43%): Water, Tomato Paste, Rehydrated Capsicum, Onion, Modified Maize Starch (1422), Salt, Sugar, Paprika, Food Acid (Citric Acid), Chili Extract, Garlic Powder. Spice Mix (10%): Sugar, Maize Flour, Salt, Garlic (8%), Paprika (7%), Cumin, Tomato (6%), Onion, Food Acid (Citric Acid), Oregano, Chili, Anticaking Agent (Silicon Dioxide), Colour (Paprika Extract), Ground Bay Leaves.",
+   "mayContain": "Gluten, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/093453.jpg"
+   ]
+  },
+  {
+   "code": "663077",
+   "name": "Nescafe Farmers Origins Brazil Lungo Coffee Capsules",
+   "brand": "Nescafe",
+   "size": "10 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/663077.jpg"
+   ]
+  },
+  {
+   "code": "663242",
+   "name": "Nescafe Farmers Origins Africas Ristretto Coffee Capsules",
+   "brand": "Nescafe",
+   "size": "10 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/663242.jpg"
+   ]
+  },
+  {
+   "code": "6065985",
+   "name": "Twinings Cold Infusions Mango & Passionfruit",
+   "brand": "Twinings",
+   "size": "14 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "White Hibiscus, Natural Flavours, Natural Passionfruit Flavour 10%, Apple Pieces, Chicory Root, Mango Pieces 2%, Passionfruit Pieces 1%, Natural Sweetener (Steviol Glycosides (derived from stevia leaves)).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6065985.jpg"
+   ]
+  },
+  {
+   "code": "648359",
+   "name": "Nescafe Farmers Origins South Asia Coffee Capsules",
+   "brand": "Nescafe",
+   "size": "10 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/648359.jpg"
+   ]
+  },
+  {
+   "code": "663267",
+   "name": "Nescafe Farmers Origins Colombia Espresso Coffee Capsules",
+   "brand": "Nescafe",
+   "size": "10 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/663267.jpg"
+   ]
+  },
+  {
+   "code": "6019011",
+   "name": "Nescafe Farmers Origins Andes Lungo Coffee Capsules",
+   "brand": "Nescafe",
+   "size": "10 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "<p>Roast & Ground Coffee</p>",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6019011.jpg"
+   ]
+  },
+  {
+   "code": "663046",
+   "name": "Nescafe Farmers Origins India Espresso Coffee Capsules",
+   "brand": "Nescafe",
+   "size": "10 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/663046.jpg"
+   ]
+  },
+  {
+   "code": "6018775",
+   "name": "Nescafe Farmers Origins Mexico Espresso Coffee Capsules",
+   "brand": "Nescafe",
+   "size": "10 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "<p>Roast & Ground Coffee</p>",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6018775.jpg"
+   ]
+  },
+  {
+   "code": "6064657",
+   "name": "Twinings Cold Infusions Lemon & Ginger",
+   "brand": "Twinings",
+   "size": "14 pack",
+   "pct": 50,
+   "category": "BEVERAGES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "White Hibiscus, Natural Lemon Flavour 17%, Apple P ieces, Natural Flavours (including Natural Ginger Flavour 6.5%), Ginger Root 11%, Liquorice Root, Le mon Peel 5%, Chicory Root, Natural Sweetener (Stev iol Glycosides (derived from stevia leaves)).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6064657.jpg"
+   ]
+  },
+  {
+   "code": "6058704",
+   "name": "The SnakYard Jujube Date & Walnut",
+   "brand": "The SnakYard",
+   "size": "120g",
+   "pct": 50,
+   "category": "ETHNIC / GOURMET FOOD",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Jujube Dates (72%) Walnuts (28%)",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6058704.jpg"
+   ]
+  },
+  {
+   "code": "6054191",
+   "name": "Strong Roots Crispy Crinkle Potato Fries",
+   "brand": "Strong Roots",
+   "size": "750g",
+   "pct": 50,
+   "category": "FREEZER - VEGETABLES",
+   "packClaim": "VEGETARIAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Potato (97%), Vegetable oils (3%), (Rapeseed Oil,  Sunflower Oil) in Varying Proportions.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6054191.jpg"
+   ]
+  },
+  {
+   "code": "6053658",
+   "name": "Strong Roots Proper Potato Chips",
+   "brand": "Strong Roots",
+   "size": "750g",
+   "pct": 50,
+   "category": "FREEZER - VEGETABLES",
+   "packClaim": "VEGETARIAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Potato (97%), Vegetable oils (3%), (Rapeseed Oil, Sunflower Oil), in Varying Porportions.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6053658.jpg"
+   ]
+  },
+  {
+   "code": "94950",
+   "name": "Golden Circle Apple Splash Poppers",
+   "brand": "Golden Circle",
+   "size": "250mL x 6 pack",
+   "pct": 40,
+   "category": "LONGLIFE JUICE / DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Water, Reconstituted Apple Juice (25%), Sugar, Food Acids (Malic Acid, Potassium Citrate), Vitamin C, Natural Flavour, Stabiliser (Pectin).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/094950.jpg"
+   ]
+  },
+  {
+   "code": "36182",
+   "name": "Golden Circle Sunshine Punch Poppers",
+   "brand": "Golden Circle",
+   "size": "250mL x 6 pack",
+   "pct": 40,
+   "category": "LONGLIFE JUICE / DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Water, Reconstituted Fruit Juice (25%) Pear or Apple, Pineapple, Orange, Passionfruit, Peach Pure, Sugar, Food Acids (Citric Acid, Potassium Citrate), Vitamin C, Natural Flavours, Stabiliser (Pectin).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/036182.jpg"
+   ]
+  },
+  {
+   "code": "663675",
+   "name": "Golden Circle Apple & Blackcurrant Poppers",
+   "brand": "Golden Circle",
+   "size": "250mL x 6 pack",
+   "pct": 40,
+   "category": "LONGLIFE JUICE / DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Water, Reconstituted Fruit Juice Apple (24.5%), Blackcurrant (0.5%), Sugar, Food Acid (Malic Acid), Vitamin C, Natural Flavours.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/663675.jpg"
+   ]
+  },
+  {
+   "code": "43802",
+   "name": "Golden Circle Tropical Punch Poppers",
+   "brand": "Golden Circle",
+   "size": "250mL x 6 pack",
+   "pct": 40,
+   "category": "LONGLIFE JUICE / DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Water, Reconstituted Fruit Juice (25%) Pear or App le, Pineapple, Orange, Peach Pure, Passionfruit, S ugar, Food Acids (Citric Acid, Potassium Citrate), Vitamin C, Natural Flavours.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/043802.jpg"
+   ]
+  },
+  {
+   "code": "49967",
+   "name": "Golden Circle Apple & Raspberry Poppers",
+   "brand": "Golden Circle",
+   "size": "250mL x 6 pack",
+   "pct": 40,
+   "category": "LONGLIFE JUICE / DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Water, Reconstituted Fruit Juice Apple (24%), Raspberry (1%), Sugar, Food Acid (Malic Acid), Vitamin C, Natural Flavours.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/049967.jpg"
+   ]
+  },
+  {
+   "code": "49969",
+   "name": "Golden Circle Fruit Drink Poppers Summer Berries",
+   "brand": "Golden Circle",
+   "size": "250mL x 6 pack",
+   "pct": 40,
+   "category": "",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Water, Reconstituted Fruit Juice Apple (23.5%), Berries (1.5%) (Blackcurrant, Raspberry, Strawberry), Sugar, Food Acid (Malic Acid), Natural Flavours, Vitamin C.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/049969.jpg"
+   ]
+  },
+  {
+   "code": "43801",
+   "name": "Golden Circle Orange Poppers",
+   "brand": "Golden Circle",
+   "size": "250mL x 6 pack",
+   "pct": 40,
+   "category": "LONGLIFE JUICE / DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Water, Reconstituted Orange Juice (25%), Sugar, Food Acids (Citric Acid, Potassium Citrate), Vitamin C, Natural Flavours.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/043801.jpg"
+   ]
+  },
+  {
+   "code": "37562",
+   "name": "Uncle Tobys Rolled Oats Quick Porridge Oats Porridge",
+   "brand": "Uncle Tobys",
+   "size": "1kg",
+   "pct": 50,
+   "category": "BREAKFAST FOODS",
+   "packClaim": "KOSHER,VEGAN,VEGETARIAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "<p>100% Uncle Tobys Whole Grain Rolled  Oats .     Contains Gluten.      May Contain Wheat, Barley, Rye, Lupin.</p>",
+   "mayContain": "Lupin, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/037562.jpg"
+   ]
+  },
+  {
+   "code": "33036",
+   "name": "Uncle Tobys Rolled Oats Traditional Porridge",
+   "brand": "Uncle Tobys",
+   "size": "1kg",
+   "pct": 50,
+   "category": "BREAKFAST FOODS",
+   "packClaim": "KOSHER,VEGAN,VEGETARIAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "<p>100% Uncle Tobys Whole Grain Rolled  Oats . Contains Gluten.      May Contain Wheat, Barley, Rye, Lupin.</p>",
+   "mayContain": "Lupin, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/033036.jpg"
+   ]
+  },
+  {
+   "code": "6058701",
+   "name": "Hellmann's Sweet & Sour Sauce",
+   "brand": "Hellmann's",
+   "size": "280g",
+   "pct": 50,
+   "category": "CONDIMENTS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "Our sweet & sour sauce is also suitable for vegans, so everyone can enjoy the delicious taste and sh",
+    "This condiment is suitable for vegans, so everyone can enjoy its delicious taste"
+   ],
+   "ingredients": "Water, apricot puree, sugar, white vinegar, thickener (1442), soy sauce, onion powder, salt, garlic powder, black pepper, food acids (200, 300), cayenne pepper, clove.",
+   "mayContain": "Gluten, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6058701.jpg"
+   ]
+  },
+  {
+   "code": "6079761",
+   "name": "Oreo Double Stuff Gingerbread Bon Bon",
+   "brand": "Oreo",
+   "size": "136g",
+   "pct": 50,
+   "category": "SEASONAL FOODS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Sugar, Wheat Flour, Vegetable Oil, Cornstarch, Fructose Syrup, Colour (150c), Salt, Flavours, Emulsifier (Soy Lecithin), Raising Agents (500, 503), Antioxidant (319), Minerals (Iron, Zinc), Vitamins (Riboflavin, Thiamin, Folate).",
+   "mayContain": "Milk, Peanuts",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6079761.jpg"
+   ]
+  },
+  {
+   "code": "6056984",
+   "name": "Your Spud Co Potato Scoop Fries",
+   "brand": "Your Spud Co",
+   "size": "750g",
+   "pct": 50,
+   "category": "FREEZER - VEGETABLES",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Potato (95%) Vegetable Oil",
+   "mayContain": "Milk, Gluten, Soy, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6056984.jpg"
+   ]
+  },
+  {
+   "code": "274324",
+   "name": "Thins Chips Original",
+   "brand": "Thins",
+   "size": "175g",
+   "pct": 50,
+   "category": "SNACKS",
+   "packClaim": "HALAL,KOSHER,VEGAN,VEGETARIAN",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "Made in New Zealand, Vegan Friendly* and Gluten Free",
+    "re, they are made in the same facility as other products that are not vegan"
+   ],
+   "ingredients": "Potatoes, Sunflower and/or Canola Oil, Salt.",
+   "mayContain": "Milk, Soy",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/274324.jpg"
+   ]
+  },
+  {
+   "code": "319951",
+   "name": "Thins Chips Salt & Vinegar",
+   "brand": "Thins",
+   "size": "175g",
+   "pct": 50,
+   "category": "SNACKS",
+   "packClaim": "HALAL,VEGAN,VEGETARIAN",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "Proudly made in Australia, Vegan Friendly* and Gluten Free",
+    "re, they are made in the same facility as other products that are not vegan"
+   ],
+   "ingredients": "Potatoes, Sunflower and/or Canola Oil, Food Acid (Sodium Diacetate, Acetic Acid), Salt, Mineral Salt (Potassium Chloride), Flavour Enhancer (621), Natural Flavour.",
+   "mayContain": "Milk, Soy",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/319951.jpg"
+   ]
+  },
+  {
+   "code": "36029",
+   "name": "Arnott's Lemon Crisp Cream Biscuits",
+   "brand": "Arnott's",
+   "size": "250g",
+   "pct": 40,
+   "category": "BISCUITS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Wheat Flour, Vegetable Oil (Antioxidant (E307b From Soy)), Sugar, Salt, Baking Powder, Starch (Wheat), Natural Flavour, Food Acid (Citric Acid), Lemon Oil (0.08%), Emulsifier (Soy Lecithin), Food Colours (Tartrazine, Sunset Yellow FCF).",
+   "mayContain": "Egg, Milk, Tree Nuts, Peanuts, Sesame",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/036029.jpg"
+   ]
+  },
+  {
+   "code": "65686",
+   "name": "BC Snacks Dark Chocolate Coconut Plant Based Protein Bar",
+   "brand": "BC Snacks",
+   "size": "40g",
+   "pct": 40,
+   "category": "HEALTH FOODS",
+   "packClaim": "Vegan",
+   "suitableFor": "Vegan",
+   "descriptionVegan": [],
+   "ingredients": "Dates, No Added Sugar Dark Chocolate Compound 20% (Sweetener (Maltitol), Vegetable Fat, Cocoa Powder 10%, Soy Protein Isolate, Emulsifiers (Soy Lecithin, 476), Natural Flavours), Coconut 11%, Pea Protein 9%, Brown Rice Syrup, Cashews, Pepitas, Humectant (Vegetable Glycerol), Coconut Oil, Cocoa Powder, Natural Flavours, Dark Chocolate compound contains 10% Cocoa Soilds minimum",
+   "mayContain": "Milk, Sesame, Peanuts, Gluten, Tree Nuts, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/065686.jpg"
+   ]
+  },
+  {
+   "code": "113131",
+   "name": "BC Snacks Honeycomb Chocolate Crunch High Protein Bar",
+   "brand": "BC Snacks",
+   "size": "40g",
+   "pct": 40,
+   "category": "HEALTH FOODS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Protein Blend [Whey Protein Concentrate (Milk), So,y Nuggets (Soy Protein Isolate, Tapioca Starch, Sa,lt), Soy Protein Isolate], Sweetener (Maltitol), N,o Added Sugar Dark Chocolate (20%) [Cocoa Solids,,Sweetener (Maltitol), Soy Protein Isolate, Milk Fa,t, Emulsifier (Soy Lecithin), Natural Vanilla Flav,our], Polydextrose, Coconut Oil, No Added Sugar Ho,ney Comb (Isomalt, Sodium Bicarbonate, Gelatine),,Citrus Fibre, Flavour (Milk), Emulsifier (Soy Leci,thin), Dark Chocolate contains a minimum of 43% Co,coa Solids",
+   "mayContain": "Tree Nuts, Peanuts, Sesame, Gluten, Wheat",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/113131.jpg"
+   ]
+  },
+  {
+   "code": "6056862",
+   "name": "Hart & Soul Japanese Style Miso & Veg Noodle Soup Pouch",
+   "brand": "Hart & Soul",
+   "size": "400g",
+   "pct": 50,
+   "category": "PREPARED FOODS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Water, Konjac Noodles (20%) (Water, Konjac Powder, Calcium Hydroxide), Carrot (3%), Shiitake Mushrooms (3%), Sesame Seed, Miso (Soybean Paste) (1.5%), Soy Sauce, Vegetable Stock, Rice Bran Oil, Garlic, Ginger, Salt, Sugar, Onion Powder, Yeast Extract, Paprika Extract, White Pepper Powder",
+   "mayContain": "Crustacean, Egg, Fish, Milk, Peanuts, Cashew",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6056862.jpg"
+   ]
+  },
+  {
+   "code": "52980",
+   "name": "Bisko Bakehouse Gingerbread Mini People",
+   "brand": "Bisko Bakehouse",
+   "size": "165g",
+   "pct": 50,
+   "category": "BISCUITS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Wheat Flour, Sugar, Vegetable Shortening (Vegetable Oils and Fats), Golden Syrup, Ground Cinnamon, Salt, Ground Ginger 0.6%, Flavour, Raising Agents (450, 500, 503).",
+   "mayContain": "Egg, Milk, Soy, Macadamia, Pistachio",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/052980.jpg"
+   ]
+  },
+  {
+   "code": "6013231",
+   "name": "Jammie Dodgers Raspberry Biscuits",
+   "brand": "Jammie Dodgers",
+   "size": "140g",
+   "pct": 41,
+   "category": "BISCUITS",
+   "packClaim": "VEGAN,VEGETARIAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Wheat flour (Wheat flour, Calcium carbonate, Niacin, Iron and Thiamin), Raspberry flavour\napple jam (27%) (Glucose-fructose syrup, Apples (Sulphites), Sugar, Humectant (Glycerol), Acid\n(Citric acid), Flavourings, Colours (Anthocyanins, Annatto extract), Gelling agent (Pectin),\nAcidity regulator (Sodium citrate)), Vegetable oils (Palm, Rapeseed), Sugar, Partially inverted\nsugar syrup, Raising agents (Ammonium carbonate, Sodium bicarbonate), Salt, Flavourings.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6013231.jpg"
+   ]
+  },
+  {
+   "code": "841552",
+   "name": "Frisp Mango Crisps",
+   "brand": "Frisp",
+   "size": "15g",
+   "pct": 41,
+   "category": "HEALTH FOODS",
+   "packClaim": "VEGAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Mangos",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/841552.jpg"
+   ]
+  },
+  {
+   "code": "6044298",
+   "name": "Frisp Coconut Crisps",
+   "brand": "Frisp",
+   "size": "15g",
+   "pct": 41,
+   "category": "HEALTH FOODS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Coconuts , Sugar",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6044298.jpg"
+   ]
+  },
+  {
+   "code": "841551",
+   "name": "Frisp Strawberry Crisps",
+   "brand": "Frisp",
+   "size": "15g",
+   "pct": 41,
+   "category": "HEALTH FOODS",
+   "packClaim": "VEGAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Strawberry, Sugar",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/841551.jpg"
+   ]
+  },
+  {
+   "code": "15917",
+   "name": "Mount Franklin Spring Water Bottle",
+   "brand": "Mount Franklin",
+   "size": "1.5L",
+   "pct": 40,
+   "category": "LIFESTYLE/WATER NON CARBONATED",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Spring Water",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/015917.jpg"
+   ]
+  },
+  {
+   "code": "6092033",
+   "name": "Health Lab Caramelised Biscuit Cookie Butter Filled Ball",
+   "brand": "Health Lab",
+   "size": "40g",
+   "pct": 43,
+   "category": "HEALTH FOODS",
+   "packClaim": "VEGAN",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "a creamy, cookie-butter inspired centre, all wrapped in smooth whyte vegan choc"
+   ],
+   "ingredients": "Coconut* , Brown Rice Syrup, Whyte Choc (15%) (Vegetable Fat, Sugar, Prebiotic Vegetable Fibre (Tapioca, Chicory Root), Coconut Milk Powder, Sunflower Lecithin, Natural Flavour, Natural Colours (Lutein, Anthocyanins)), Cookie Butter Crème (10%) (Gluten Free Biscuit, Sugar, High Oleic Sunflower Oil, Prebiotic Tapioca Fibre, Coconut Oil, Cacao Powder, Natural Colour (Caramel I), Sunflower Lecithin, Cinnamon, Natural Flavour, Sea Salt, Hazelnut, Cashew), Gluten Free Biscuit Crumb (8.5%) (Tapioca Flour, Chickpea Flour, Rice Bran Oil, Rice Malt Syrup, Coconut Sugar, Sodium Bicarbonate, Salt), Cashews, Peanut Butter. *Sulphite & Preservative Free Coconut.",
+   "mayContain": "Egg, Milk, Sesame, Sulphites, Soy, Lupin, Pine Nut, Almond, Macadamia, Pecan, Brazil Nut, Pistachio, Walnut",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6092033.jpg"
+   ]
+  },
+  {
+   "code": "6092064",
+   "name": "Health Lab Neapolitan Cheesecake Choc Coated Protein Ball",
+   "brand": "Health Lab",
+   "size": "40g",
+   "pct": 43,
+   "category": "HEALTH FOODS",
+   "packClaim": "VEGAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Prebiotic Tapioca Fibre, Coconut^, Dark Choc (16%) (Sugar, Vegetable Fat, Cocoa Solids, Soy Lecithin, Natural Flavour, Salt), Vegan Vanilla Custard (12%) (Sugar, Roasted Cashews, High Oleic Sunflower Oil, Coconut Milk Powder, Natural Flavour, Sunflower Lecithin), Plant Protein Blend (Rice and/or Faba Bean), Soy Protein Crisps, Coconut Oil, Vegetable Glycerine, Natural Flavour, Sea Salt, Natural Colour (Beetroot), Cashews, Roasted Peanuts. ^Sulphite & Preservative Free Coconut.",
+   "mayContain": "Egg, Milk, Sesame, Sulphites, Lupin, Pine Nut, Almond, Hazelnut, Macadamia, Pecan, Brazil Nut, Pistachio, Walnut",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6092064.jpg"
+   ]
+  },
+  {
+   "code": "6092004",
+   "name": "Health Lab Pistachio & Custard Double Filled Protein Ball",
+   "brand": "Health Lab",
+   "size": "40g",
+   "pct": 43,
+   "category": "HEALTH FOODS",
+   "packClaim": "VEGAN",
+   "suitableFor": "",
+   "descriptionVegan": [
+    "tre of pistachio créme and a vanilla \"custard\", all wrapped in a lush vegan choc coating"
+   ],
+   "ingredients": "Coconut^, Prebiotic Tapioca Fibre, Dark Choc (16%) (Sugar, Vegetable Fat, Cocoa Solids, Soy Lecithin, Natural Flavour, Salt), Pistachio Creme (7.5%) (Sugar, High Oleic Sunflower Oil, Pistachios (12%), Prebiotic Tapioca Fibre, Coconut Oil, Sunflower Lecithin, Sea Salt, Natural Colour (Chlorophyll), Natural Flavour), Vegan Custard (7.5%) (Sugar, Roasted Cashews, High Oleic Sunflower Oil, Coconut Milk Powder, Natural Custard Flavour, Sunflower Lecithin), Soy Protein Crisps (Soy Protein Isolate, Tapioca Flour, Salt), Plant Protein (Faba Bean and/or Rice), Brown Rice Syrup, Cashews, Coconut Oil, Vegetable Glycerine, Sea Salt, Roasted Peanuts. ^Sulphite & Preservative Free Coconut.",
+   "mayContain": "Egg, Milk, Sesame, Sulphites, Lupin, Pine Nut, Almond, Hazelnut, Macadamia, Pecan, Brazil Nut, Walnut",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6092004.jpg"
+   ]
+  },
+  {
+   "code": "635960",
+   "name": "Schweppes Soda Water Mixer Bottle Mixers",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Mineral Salt (Potassium Bicarbonate).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/635960.jpg"
+   ]
+  },
+  {
+   "code": "634277",
+   "name": "Schweppes Indian Tonic Water Mixer Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Food Acid (330), Natural Flavours (With Orange Peel Extract, Citrus Oils, Botanical Extracts, Lemon Peel Extract), Quinine.CONTAINS QUININE.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/634277.jpg"
+   ]
+  },
+  {
+   "code": "634274",
+   "name": "Schweppes Zero Sugar Mixer Indian Tonic Water Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Food Acids (330, 331), Natural Flavours (With Orange Peel Extract, Citrus Oils, Botanical Extracts, Lemon Peel Extract), Sweeteners (951, 950), Quinine.CONTAINS QUININE. CONTAINS PHENYLALANINE.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/634274.jpg"
+   ]
+  },
+  {
+   "code": "703393",
+   "name": "Schweppes Lemonade Soft Drink Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Food Acids (330, 331), Natural Flavours (With Lime & Lemon Oils).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/703393.jpg"
+   ]
+  },
+  {
+   "code": "634266",
+   "name": "Schweppes Dry Ginger Ale Soft Drink Classic Mixers Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Natural Flavour (With Ginger Extracts, Citrus Oils, Chilli Extract), Food Acids (330, 331), Colour (150d), Preservative (211).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/634266.jpg"
+   ]
+  },
+  {
+   "code": "703402",
+   "name": "Schweppes Traditional Raspberry Soft Drink Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Food Acids (330, 260, 331 ), Flavour, Preservative (211), Colour (123).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/703402.jpg"
+   ]
+  },
+  {
+   "code": "634281",
+   "name": "Schweppes Lime Soda Water With Lime Juice Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Reconstituted Lime Juice (5%), Sugar, Natural Flavour (With Lime Oils), Preservatives (211, 223 (SULPHITES)), Plant Extracts (Gardenia, Carthamus).CONTAINS SULPHITES.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/634281.jpg"
+   ]
+  },
+  {
+   "code": "634268",
+   "name": "Schweppes Zero Sugar Mixer Dry Ginger Ale",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Natural Flavour (With Ginger Extracts, Citrus Oils, Chilli Extract), Food Acids (330, 331), Colour (150d), Sweeteners (951, 950), Preservative (211).CONTAINS PHENYLALANINE.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/634268.jpg"
+   ]
+  },
+  {
+   "code": "634290",
+   "name": "Schweppes Lemon Lime Bitters Soft Drink Mixer Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Reconstituted Fruit Juice s (Lime 2.5%, Lemon 2.5%), Natural Flavours (With Lemon Peel Extract, Citrus Oils, Aromatic Botanica ls), Preservative (211), Food Acid (330), Natural Colour (161b), Black Carrot Concentrate.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/634290.jpg"
+   ]
+  },
+  {
+   "code": "89801",
+   "name": "Schweppes Zero Sugar Mixers Lemon Lime & Bitters Soft Drink Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Natural Flavours (With Lemon Peel Extract, Aromatic Botanicals, Citrus Oils), Food Acids (330, 331), Sweeteners (952, 950, 951), Preservative (211), Black Carrot Concentrate, Natural Colour (161b). CONTAINS PHENYLALANINE.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/089801.jpg"
+   ]
+  },
+  {
+   "code": "707972",
+   "name": "Schweppes Traditional Brown Creaming Soda Soft Drink Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Flavours, Food Acid (330), Colour (150d), Preservative (211).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/707972.jpg"
+   ]
+  },
+  {
+   "code": "708254",
+   "name": "Schweppes Zero Sugar Lemonade Soft Drink Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Natural Flavour (With Lemon & Li me Oils), Food Acids (330, 331), Sweeteners (950, 952, 955), Preservative (211).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/708254.jpg"
+   ]
+  },
+  {
+   "code": "634291",
+   "name": "Schweppes Zero Sugar Agrum Citrus Blend Soft Drink Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Food Acids (330, 331), Natural Flavours (with Grapefruit Oil, Other Citrus Extracts), Sweeteners (950, 951, 952), Preservative (211), Colours (110, 122).CONTAINS PHENYLALANINE.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/634291.jpg"
+   ]
+  },
+  {
+   "code": "662713",
+   "name": "Schweppes Agrum Blood Orange Soft Drink Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Food Acid (330), Flavours, Preservative (211), Colours (150d, 102, 122, 110).",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/662713.jpg"
+   ]
+  },
+  {
+   "code": "6045820",
+   "name": "Schweppes Ginger Beer Soft Drink Mixer Bottle",
+   "brand": "Schweppes",
+   "size": "1.1L",
+   "pct": 50,
+   "category": "CARBONATED SOFT DRINKS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Carbonated Water, Sugar, Ginger (0.5%), Natural Flavours, Food Acid (330), Preservative (211), Natural Colour (150a)",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/6045820.jpg"
+   ]
+  },
+  {
+   "code": "230157",
+   "name": "Vitasoy Greek Style Soy Yoghurt Hint Of Strawberry",
+   "brand": "Vitasoy",
+   "size": "140g",
+   "pct": 50,
+   "category": "DAIRY - YOGHURT",
+   "packClaim": "VEGAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Filtered water, whole soybeans (min.12%), sugar, strawberry puree seedless (5%), soy protein (min.2.5%), starch, mineral (calcium phosphate), natural flavours, sea salt, black carrot and blackcurrant concentrate, acidity regulators (sodium citrate, citric acid), live vegan cultures, vitamins (D, B12). Live vegan cultures: yogurt cultures: S.thermophilus & L.bulgaricus. Probiotic cultures: B.lactis.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/230157.jpg"
+   ]
+  },
+  {
+   "code": "844371",
+   "name": "Heinz Tomato Ketchup Squeezy Bottle",
+   "brand": "Heinz",
+   "size": "220mL",
+   "pct": 50,
+   "category": "CONDIMENTS",
+   "packClaim": "",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Concentrated Tomatoes (Contains 167g of Tomatoes per 100mL), Sugar, Salt, Concentrated Vinegar, Spice & Herb Extracts, Spice. Contains 77% Concentrated Tomatoes.",
+   "mayContain": "",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/844371.jpg"
+   ]
+  },
+  {
+   "code": "507619",
+   "name": "Vegeta Vegetables With Noodles Cup Soup",
+   "brand": "Vegeta",
+   "size": "16g",
+   "pct": 50,
+   "category": "PREPARED FOODS",
+   "packClaim": "VEGETARIAN",
+   "suitableFor": "",
+   "descriptionVegan": [],
+   "ingredients": "Noodles 43.8% (Durum Wheat Semolina, Salt), Dried Vegetables 15.2% (Celery, Carrot, Potato, Green Peas, Leek, Onion, Tomato, Broccoli), Salt, Sugar, Potato Starch, Maltodextrin, Vegetable Oil, Yeast Extract, Spices, Flavourings, Parsley Leaves",
+   "mayContain": "Egg, Milk, Sesame, Soy, Lupin",
+   "images": [
+    "https://cdn1.woolworths.media/content/wowproductimages/large/507619.jpg"
+   ]
+  }
+ ]
 }

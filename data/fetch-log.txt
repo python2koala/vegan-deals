@@ -1,1 +1,1 @@
-APIFY_TOKEN: only $-0.22 credit left this month, skipping to the next key
+APIFY_TOKEN: OK (113 half-price vegan-tagged, 294 from searches; $5.0 credit left before this run)
