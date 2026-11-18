@@ -1,1 +1,1 @@
-APIFY_TOKEN: OK (113 half-price vegan-tagged, 294 from searches; $5.0 credit left before this run)
+APIFY_TOKEN: OK (127 half-price vegan-tagged, 250 from searches; $3.82 credit left before this run)
